@@ -1,0 +1,6 @@
+{
+  "name": "NidhuVastra – Indian Ethnic Wear & Saree Boutique",
+  "description": "Weaving Threads of Tradition with Contemporary Elegance. Shop curated Banarasi, Mysore Semi Crepe Silk, Kanjivaram, Tissue Silk, Khadi, and Cotton sarees from Mysuru with free shipping across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

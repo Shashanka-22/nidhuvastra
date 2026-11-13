@@ -1,0 +1,5967 @@
+[
+  {
+    "id": "1f743f6d-1334-bf58-3fdf-ef7fed06e3ab",
+    "code": "102",
+    "codeNum": 102,
+    "orderIndex": 0,
+    "name": "Fancy Saree (CODE - 102)",
+    "slug": "fancy-saree-code-102",
+    "price": 999,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 69,
+    "categories": [
+      "fancy-sarees"
+    ],
+    "productType": "Fancy Designer",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_1e4599d62fc3466ab27932eaec22bef8~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Fancy Saree (CODE - 102)"
+      },
+      {
+        "id": "01d5f4_2ba39d091122440a962605fc36e51b6d~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Fancy Saree (CODE - 102)"
+      },
+      {
+        "id": "01d5f4_d939602bd8c54a479684068f295d64ab~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Fancy Saree (CODE - 102)"
+      },
+      {
+        "id": "01d5f4_2753d505ee9e4ebaa45b6d50dc3711ef~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Fancy Saree (CODE - 102)"
+      },
+      {
+        "id": "01d5f4_dcb5f62e916a42cb9287629d37cba674~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Fancy Saree (CODE - 102)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "ac4fb864-078c-73de-ae95-8076c22a846d",
+    "code": "101",
+    "codeNum": 101,
+    "orderIndex": 1,
+    "name": "Cotton saree (CODE - 101)",
+    "slug": "cotton-saree-code-0101",
+    "price": 999,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 65,
+    "categories": [
+      "cotton-sarees"
+    ],
+    "productType": "Cotton",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_e8a62b169b2a4da999d0636b4570e53f~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Cotton saree (CODE - 101)"
+      },
+      {
+        "id": "01d5f4_3c6cdf7c3e4a4fa6a73ca4d2a00ec8c4~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Cotton saree (CODE - 101)"
+      },
+      {
+        "id": "01d5f4_962617ab1f1f45a3a25eeef9276318af~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Cotton saree (CODE - 101)"
+      },
+      {
+        "id": "01d5f4_1f6b20034d344523949bf692f70400b0~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Cotton saree (CODE - 101)"
+      },
+      {
+        "id": "01d5f4_b8a1a6b07c974551a69a1a64754b6803~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Cotton saree (CODE - 101)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "7678e5e8-8686-cec9-f9f2-8267b172b088",
+    "code": "100",
+    "codeNum": 100,
+    "orderIndex": 2,
+    "name": "Premium 2D design crepe silk saree (CODE - 100)",
+    "slug": "premium-2d-design-crepe-silk-saree",
+    "price": 1799,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 56,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_30ef3d2c716947159eb152ddd167c38c~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Premium 2D design crepe silk saree (CODE - 100)"
+      },
+      {
+        "id": "01d5f4_5d8f1e046070495b82c6b53a627f7939~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Premium 2D design crepe silk saree (CODE - 100)"
+      },
+      {
+        "id": "01d5f4_2575f6572bf3433cbf1e79bb5381c8d4~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Premium 2D design crepe silk saree (CODE - 100)"
+      },
+      {
+        "id": "01d5f4_8fb781652caa4bdab2ce09827993e380~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Premium 2D design crepe silk saree (CODE - 100)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "97914a6b-4f60-1b02-dfd0-70cc54ff7f32",
+    "code": "099",
+    "codeNum": 99,
+    "orderIndex": 3,
+    "name": "Bottle green crepe silk saree (CODE - 099)",
+    "slug": "bottle-green-crepe-silk-saree",
+    "price": 1499,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 27,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Green"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_61f366548faf4062a9af0265a38d3396~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Bottle green crepe silk saree (CODE - 099)"
+      },
+      {
+        "id": "01d5f4_bee8ad55a1c64a6a9ba451ab8a75d718~mv2.jpeg",
+        "width": 3744,
+        "height": 5616,
+        "alt": "Bottle green crepe silk saree (CODE - 099)"
+      },
+      {
+        "id": "01d5f4_464018eb3f7449d1afff1b7108562332~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Bottle green crepe silk saree (CODE - 099)"
+      },
+      {
+        "id": "01d5f4_ffc6fea01340491ca3f34f8b66148917~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Bottle green crepe silk saree (CODE - 099)"
+      },
+      {
+        "id": "01d5f4_8a6f0fa94b6a4f27bb89112f2c91dd9f~mv2.jpeg",
+        "width": 5760,
+        "height": 8640,
+        "alt": "Bottle green crepe silk saree (CODE - 099)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "68e2f07d-0317-0499-8ddf-8bea17dd61b2",
+    "code": "098",
+    "codeNum": 98,
+    "orderIndex": 4,
+    "name": "Pemium Fancy Saree  Code 098",
+    "slug": "pemium-fancy-saree-code-098",
+    "price": 1599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 88,
+    "categories": [
+      "fancy-sarees"
+    ],
+    "productType": "Fancy Designer",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_39aca58a60594c2f93fd370978e77a2d~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Pemium Fancy Saree  Code 098"
+      },
+      {
+        "id": "ee7c6c_d99c2036c3a8438d9e2b80f242889647~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Pemium Fancy Saree  Code 098"
+      },
+      {
+        "id": "ee7c6c_ef1d45d88f034444b8d921312087509f~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Pemium Fancy Saree  Code 098"
+      },
+      {
+        "id": "ee7c6c_e731c48e6db748e48cdc2381e151109c~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Pemium Fancy Saree  Code 098"
+      },
+      {
+        "id": "ee7c6c_20c5f984f90a4d899e5ca46b5a1e5261~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Pemium Fancy Saree  Code 098"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "55ee20df-a94d-bd20-b91a-4d1d3d4309ed",
+    "code": "097",
+    "codeNum": 97,
+    "orderIndex": 5,
+    "name": "Navy Blue Crepe Silk Saree with elephant bentex border (CODE-097)",
+    "slug": "mysore",
+    "price": 1299,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 28,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Blue"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_e83832d58fd24c0786de996862129f7d~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Navy Blue Crepe Silk Saree with elephant bentex border (CODE-097)"
+      },
+      {
+        "id": "ee7c6c_6a56179ded404954bb8361543ea8c2fb~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Navy Blue Crepe Silk Saree with elephant bentex border (CODE-097)"
+      },
+      {
+        "id": "ee7c6c_3625d92480674b0599ca7d6dd3ef1b5b~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Navy Blue Crepe Silk Saree with elephant bentex border (CODE-097)"
+      },
+      {
+        "id": "ee7c6c_bfd4e2a3df9741a4a921c9c42948ce5b~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Navy Blue Crepe Silk Saree with elephant bentex border (CODE-097)"
+      },
+      {
+        "id": "ee7c6c_3adcfe5b9f50439aa84ce4a76e965612~mv2.jpeg",
+        "width": 2799,
+        "height": 4096,
+        "alt": "Navy Blue Crepe Silk Saree with elephant bentex border (CODE-097)"
+      },
+      {
+        "id": "ee7c6c_7a91c7e1be8745f09fe09e53d5121926~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Navy Blue Crepe Silk Saree with elephant bentex border (CODE-097)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "dcdb87d0-29d8-e2c4-c65c-d53567a1ac74",
+    "code": "096",
+    "codeNum": 96,
+    "orderIndex": 6,
+    "name": "Mysore crêpe silk  ( Code096 )",
+    "slug": "mysore-crêpe-sari-code096",
+    "price": 1499,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 28,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_e9bafa8dc3734d2da4c139a440b37ce1~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore crêpe silk  ( Code096 )"
+      },
+      {
+        "id": "ee7c6c_10dd5fea196443779d744b7bfe437b6f~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore crêpe silk  ( Code096 )"
+      },
+      {
+        "id": "ee7c6c_bb967a3d818a44ce945d0230a4f7bb63~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore crêpe silk  ( Code096 )"
+      },
+      {
+        "id": "ee7c6c_eedd0292e461453b85a250f348d4b6a9~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore crêpe silk  ( Code096 )"
+      },
+      {
+        "id": "ee7c6c_0ad5eace367641cc9389c722f809762e~mv2.jpeg",
+        "width": 2182,
+        "height": 3876,
+        "alt": "Mysore crêpe silk  ( Code096 )"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "473b9fd9-3412-5dcb-06d5-6ef3fa8522d6",
+    "code": "095",
+    "codeNum": 95,
+    "orderIndex": 7,
+    "name": "Mysore Crepe Silk Saree (CODE-095)",
+    "slug": "mysore-crepe-silk-saree-code-095",
+    "price": 1699,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 73,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_d7cc38dcfb2c423888e3187b79683e7e~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Crepe Silk Saree (CODE-095)"
+      },
+      {
+        "id": "ee7c6c_8e7ea4813f7c4b50bd7ad0110743e971~mv2.jpeg",
+        "width": 2121,
+        "height": 3767,
+        "alt": "Mysore Crepe Silk Saree (CODE-095)"
+      },
+      {
+        "id": "ee7c6c_d05a515dedf441fe9197461516f22c91~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Crepe Silk Saree (CODE-095)"
+      },
+      {
+        "id": "ee7c6c_02b7a2e9ecb140ceadf5688b1e96d9d0~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Crepe Silk Saree (CODE-095)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "4ff4b913-3488-d16c-e956-afa6f5b6f2d4",
+    "code": "066",
+    "codeNum": 66,
+    "orderIndex": 8,
+    "name": "Red and Peach Semi Crepe Premium Silk Saree (CODE-066)",
+    "slug": "red-and-peach-semi-crepe-premium-silk-saree-code-066",
+    "price": 1699,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Red",
+      "Pink"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_e2d4dd0cdd4b482fa1be397aad61d14e~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Red and Peach Semi Crepe Premium Silk Saree (CODE-066)"
+      },
+      {
+        "id": "01d5f4_bb2f951f2c4e40c383cefcc2ad5d4951~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Red and Peach Semi Crepe Premium Silk Saree (CODE-066)"
+      },
+      {
+        "id": "01d5f4_7f13fb77928848ef9dd5fe0266462931~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Red and Peach Semi Crepe Premium Silk Saree (CODE-066)"
+      },
+      {
+        "id": "01d5f4_4a92e15a4b684cba9ceede00b81a71ef~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Red and Peach Semi Crepe Premium Silk Saree (CODE-066)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "6f651948-6659-2d9d-8f65-c4e8027b501c",
+    "code": "022",
+    "codeNum": 22,
+    "orderIndex": 9,
+    "name": "White and red soft silk saree with digital printed work[CODE-022]",
+    "slug": "white-and-red-soft-silk-saree-with-digital-printed-work-codeo-022",
+    "price": 1099,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 28,
+    "categories": [
+      "kanjivaram-sarees",
+      "soft-silk-sarees"
+    ],
+    "productType": "Soft Silk",
+    "colors": [
+      "White",
+      "Red"
+    ],
+    "description": [
+      "Experience the epitome of timeless elegance with Nidhu Vastra's exquisite White and red soft silk saree with digital printed work [code 022]. Each thread of this saree is an embrace of tradition, featuring intricate digital prints that highlight its vibrant beauty. Perfect for any occasion, this saree is thoughtfully designed to drape gracefully, ensuring you exude sophistication and grace. Celebrate your heritage with Nidhu Vastra, where every saree tells a story of tradition and meticulous craftsmanship. Make a statement that resonates through generations with this classic yet contemporary piece."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_fbdd2e28015a4c10817f153ddd3c2968~mv2.jpeg",
+        "width": 5304,
+        "height": 7952,
+        "alt": "White and red soft silk saree with digital printed work[CODE-022]"
+      },
+      {
+        "id": "01d5f4_e83a586b820c4a818e98bfd66c15af66~mv2.jpeg",
+        "width": 5304,
+        "height": 7952,
+        "alt": "White and red soft silk saree with digital printed work[CODE-022]"
+      },
+      {
+        "id": "01d5f4_f4a8e750c29341d2ae733a762964ca76~mv2.jpeg",
+        "width": 7952,
+        "height": 5304,
+        "alt": "White and red soft silk saree with digital printed work[CODE-022]"
+      },
+      {
+        "id": "01d5f4_664dfc30f54b41d79ece8c80ae3ec675~mv2.jpeg",
+        "width": 4762,
+        "height": 6965,
+        "alt": "White and red soft silk saree with digital printed work[CODE-022]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "8db9d6e5-dbe2-9c80-d31f-58b282c3d18c",
+    "code": "059",
+    "codeNum": 59,
+    "orderIndex": 10,
+    "name": "Rose Printed Fancy Saree🦢 code 059",
+    "slug": "rose-printed-fancy-saree",
+    "price": 1299,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "fancy-sarees"
+    ],
+    "productType": "Fancy Designer",
+    "colors": [
+      "Pink"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_1f841c0c25e04b59a374c762427523d8~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Rose Printed Fancy Saree🦢 code 059"
+      },
+      {
+        "id": "ee7c6c_9a46869415754cf98e3101cef27ff50a~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Rose Printed Fancy Saree🦢 code 059"
+      },
+      {
+        "id": "ee7c6c_5dfaa0adc0f64c4ab6cc6cff6949726f~mv2.jpeg",
+        "width": 3997,
+        "height": 3001,
+        "alt": "Rose Printed Fancy Saree🦢 code 059"
+      },
+      {
+        "id": "ee7c6c_bab8919bb9d04ee9a55d14e1f415f0bd~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Rose Printed Fancy Saree🦢 code 059"
+      },
+      {
+        "id": "ee7c6c_397eb0ab5b7645309f382feb80cdbe17~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Rose Printed Fancy Saree🦢 code 059"
+      },
+      {
+        "id": "ee7c6c_b80f18b6e3854a2c89da6b614c706627~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Rose Printed Fancy Saree🦢 code 059"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "7660ddd5-cd29-c95e-7649-a56967a75134",
+    "code": "055",
+    "codeNum": 55,
+    "orderIndex": 11,
+    "name": "Black colour Fancy saree (code055)",
+    "slug": "mysore-semi-crêpe-code055",
+    "price": 1699,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 20,
+    "categories": [
+      "fancy-sarees"
+    ],
+    "productType": "Fancy Designer",
+    "colors": [
+      "Black"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_4e89d5ea061a471b94849d5a28dd2020~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Black colour Fancy saree (code055)"
+      },
+      {
+        "id": "ee7c6c_6f741f93be40405ca5870a1805c20872~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Black colour Fancy saree (code055)"
+      },
+      {
+        "id": "ee7c6c_59af53faa0cc4cc783e3c2d55c2b2c94~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Black colour Fancy saree (code055)"
+      },
+      {
+        "id": "ee7c6c_f0332d8edbed42a397e3bf0d0e1b5fa0~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Black colour Fancy saree (code055)"
+      },
+      {
+        "id": "ee7c6c_2360b948ae4a4824bb0aeb568dad61e1~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Black colour Fancy saree (code055)"
+      },
+      {
+        "id": "ee7c6c_4c400442fc7f412999f4eea5a9081fb8~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Black colour Fancy saree (code055)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "f7f8a750-c027-9544-fc4a-f392e872f70a",
+    "code": "010",
+    "codeNum": 10,
+    "orderIndex": 12,
+    "name": "Pink *Mysore Semi Crepe Silk Saree* [CODE-010]",
+    "slug": "pink",
+    "price": 1599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 55,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Pink"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_6ad3c1cfb57948158da1f2550b4a934b~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Pink *Mysore Semi Crepe Silk Saree* [CODE-010]"
+      },
+      {
+        "id": "01d5f4_3b72f73f48cc434f8712cb551106c026~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Pink *Mysore Semi Crepe Silk Saree* [CODE-010]"
+      },
+      {
+        "id": "01d5f4_3ceb25251f384ce78ef7d54a0a27cbd9~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Pink *Mysore Semi Crepe Silk Saree* [CODE-010]"
+      },
+      {
+        "id": "01d5f4_ca9dbf9ec8b546448eec0f02c85af082~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Pink *Mysore Semi Crepe Silk Saree* [CODE-010]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "5f3eb566-1742-1a4e-f636-861222c885cc",
+    "code": "024",
+    "codeNum": 24,
+    "orderIndex": 13,
+    "name": "Cream with Red combination crepe silk saree[CODE-024]",
+    "slug": "cream-with-red-combination-crepe-silk-saree-code024",
+    "price": 1599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 8,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "White",
+      "Red"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_bd0d89b8fded4bbfa6beca62d46c3210~mv2.jpg",
+        "width": 4000,
+        "height": 6000,
+        "alt": "Cream with Red combination crepe silk saree[CODE-024]"
+      },
+      {
+        "id": "01d5f4_e276af120eac40248483c5be724fa8a9~mv2.jpg",
+        "width": 4000,
+        "height": 6000,
+        "alt": "Cream with Red combination crepe silk saree[CODE-024]"
+      },
+      {
+        "id": "01d5f4_59a1c3eb1a734f3e85e776eee43894da~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Cream with Red combination crepe silk saree[CODE-024]"
+      },
+      {
+        "id": "01d5f4_9bb8bef49f324abfb8b7c7ab4d29ac3b~mv2.jpg",
+        "width": 4000,
+        "height": 6000,
+        "alt": "Cream with Red combination crepe silk saree[CODE-024]"
+      },
+      {
+        "id": "01d5f4_5e495c15e3f94702bd8c50a8644f7f58~mv2.jpg",
+        "width": 4000,
+        "height": 6000,
+        "alt": "Cream with Red combination crepe silk saree[CODE-024]"
+      },
+      {
+        "id": "01d5f4_7da8ca315443491ca5284c936b27f43e~mv2.jpg",
+        "width": 4000,
+        "height": 6000,
+        "alt": "Cream with Red combination crepe silk saree[CODE-024]"
+      },
+      {
+        "id": "01d5f4_c0143497577244ccaa2efd119beb2a83~mv2.jpg",
+        "width": 4000,
+        "height": 6000,
+        "alt": "Cream with Red combination crepe silk saree[CODE-024]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "403dc75a-5de2-15e8-e1e9-7b6d5a4c07be",
+    "code": "030",
+    "codeNum": 30,
+    "orderIndex": 14,
+    "name": "White fancy digital printed crepe silk saree [CODE-030]",
+    "slug": "030",
+    "price": 1299,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 59,
+    "categories": [
+      "fancy-sarees",
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "White"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_d17435d7f55a4ef2816de4c1a8659591~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "White fancy digital printed crepe silk saree [CODE-030]"
+      },
+      {
+        "id": "01d5f4_84c058669841429489ce35f1d0433ec0~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "White fancy digital printed crepe silk saree [CODE-030]"
+      },
+      {
+        "id": "01d5f4_6b0aec53aed54342ad226acf8828c6ef~mv2.jpeg",
+        "width": 2308,
+        "height": 3462,
+        "alt": "White fancy digital printed crepe silk saree [CODE-030]"
+      },
+      {
+        "id": "01d5f4_cac84ea864a3438aa9f49ce6ce3866b8~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "White fancy digital printed crepe silk saree [CODE-030]"
+      },
+      {
+        "id": "01d5f4_a8ece5024660456dbe8fdb7eac96a43c~mv2.jpeg",
+        "width": 1080,
+        "height": 1439,
+        "alt": "White fancy digital printed crepe silk saree [CODE-030]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "bec94be5-c4b0-fb29-d9db-68b1443153e4",
+    "code": "025",
+    "codeNum": 25,
+    "orderIndex": 15,
+    "name": "Premium quality 2D semi crepe silk saree(Black with cream Colour [CODE-025]",
+    "slug": "code025",
+    "price": 1899,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 70,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_2572ac1504194aef8bbfab67370bbe8d~mv2.jpg",
+        "width": 2120,
+        "height": 3769,
+        "alt": "Premium quality 2D semi crepe silk saree(Black with cream Colour [CODE-025]"
+      },
+      {
+        "id": "01d5f4_d7a18ddc2df64dc690431df256fe7a8b~mv2.jpeg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Premium quality 2D semi crepe silk saree(Black with cream Colour [CODE-025]"
+      },
+      {
+        "id": "01d5f4_fb050b1341f1458893d772f21097f671~mv2.jpeg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Premium quality 2D semi crepe silk saree(Black with cream Colour [CODE-025]"
+      },
+      {
+        "id": "01d5f4_0bcd5baf144544f4a59e444ce4503b40~mv2.jpeg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Premium quality 2D semi crepe silk saree(Black with cream Colour [CODE-025]"
+      },
+      {
+        "id": "01d5f4_84da89bb7fc0460e90119f620ad7591e~mv2.jpeg",
+        "width": 2205,
+        "height": 3624,
+        "alt": "Premium quality 2D semi crepe silk saree(Black with cream Colour [CODE-025]"
+      },
+      {
+        "id": "01d5f4_3b05aa20639d4b9a8177e26e0e8b547b~mv2.jpeg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Premium quality 2D semi crepe silk saree(Black with cream Colour [CODE-025]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "1533ebc6-6e95-7fbd-88b5-a976763a844d",
+    "code": "018",
+    "codeNum": 18,
+    "orderIndex": 16,
+    "name": "Mysore Semi Crepe Silk Saree -Pink with Yellow[CODE-018]",
+    "slug": "mysore-semi-crepe-silk-saree-pink-with-yellow-code-018",
+    "price": 1595,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 40,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Pink",
+      "Yellow & Mustard"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_2bd217ec6f9a464f9b9c63c907190aab~mv2.jpg",
+        "width": 3393,
+        "height": 5056,
+        "alt": "Mysore Semi Crepe Silk Saree -Pink with Yellow[CODE-018]"
+      },
+      {
+        "id": "01d5f4_7a867df482c9415ebef108e2257d2441~mv2.jpg",
+        "width": 5244,
+        "height": 7796,
+        "alt": "Mysore Semi Crepe Silk Saree -Pink with Yellow[CODE-018]"
+      },
+      {
+        "id": "01d5f4_729856e0c23f4c3998e5555399bf1a56~mv2.jpg",
+        "width": 5304,
+        "height": 7826,
+        "alt": "Mysore Semi Crepe Silk Saree -Pink with Yellow[CODE-018]"
+      },
+      {
+        "id": "01d5f4_c9c9ef250e5c425cb36d5268e063d968~mv2.jpg",
+        "width": 5144,
+        "height": 7565,
+        "alt": "Mysore Semi Crepe Silk Saree -Pink with Yellow[CODE-018]"
+      },
+      {
+        "id": "01d5f4_cdbcada0cd7d456ebcf75b81643fef0a~mv2.jpg",
+        "width": 5285,
+        "height": 7846,
+        "alt": "Mysore Semi Crepe Silk Saree -Pink with Yellow[CODE-018]"
+      },
+      {
+        "id": "01d5f4_5dba52a07d8d4c4a8729791651e60afd~mv2.jpg",
+        "width": 5304,
+        "height": 7877,
+        "alt": "Mysore Semi Crepe Silk Saree -Pink with Yellow[CODE-018]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "0c806756-8fea-5a53-4b5a-1cdf93fbc127",
+    "code": "087",
+    "codeNum": 87,
+    "orderIndex": 17,
+    "name": "Cotton saree (CODE-087)",
+    "slug": "fancy-saree-code-086",
+    "price": 1049,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 53,
+    "categories": [
+      "cotton-sarees"
+    ],
+    "productType": "Cotton",
+    "colors": [
+      "Black",
+      "White",
+      "Red",
+      "Blue",
+      "Yellow & Mustard",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This striking printed cotton saree features an artistic mix of traditional patterns and block prints, making it a powerful and comfortable addition to the NIDHUVASTRA everyday and professional wear segments.",
+      "Crimson & Charcoal Kalamkari Cotton Saree",
+      "The Palette: A bold combination of deep Charcoal Black and rich Madder Red, accented with vibrant pops of turquoise blue, marigold yellow, and cream within the printed motifs.The Craft: Premium quality pure cotton, celebrated for its lightweight feel, breathability, and structure that softens beautifully with every wash.The Details: Features an intricate, folklore-inspired Kalamkari print on the black base, beautifully framed by a geometric Ikkat-style chevron pattern running along the red border and pleats.The Vibe: Artistically intellectual and confident; an exceptional choice for formal presentations, corporate meetings, or cultural daytime events.Style Tip: Complement the handcrafted, artisanal look by pairing it with a solid black full-sleeve blouse and heavy silver oxide jhumkas as shown to complete the signature NIDHUVASTRA brand aesthetic."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_9eba231e7146468683e31817905059ac~mv2.jpg",
+        "width": 2120,
+        "height": 3769,
+        "alt": "Cotton saree (CODE-087)"
+      },
+      {
+        "id": "01d5f4_51284d7f62704674b3e2fa4769b54e10~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Cotton saree (CODE-087)"
+      },
+      {
+        "id": "01d5f4_5fe8f810e40f47d196a7aada6088c4ec~mv2.jpg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Cotton saree (CODE-087)"
+      },
+      {
+        "id": "01d5f4_281534f3c80a4242b3f47a20055c5d78~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Cotton saree (CODE-087)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "0c90cfda-f23f-19ac-be6d-8b8f8133e1e5",
+    "code": "035",
+    "codeNum": 35,
+    "orderIndex": 18,
+    "name": "Crepe Silk Saree [CODE-035]",
+    "slug": "crepe-silk-saree-code035",
+    "price": 1349,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_a226d9eb36774f4eb0e19331333ccf3d~mv2.jpeg",
+        "width": 2084,
+        "height": 2084,
+        "alt": "Crepe Silk Saree [CODE-035]"
+      },
+      {
+        "id": "01d5f4_ffa336ea775149229413d79962296c90~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Crepe Silk Saree [CODE-035]"
+      },
+      {
+        "id": "01d5f4_a88cb16687de4633a1269e9e4abcae78~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Crepe Silk Saree [CODE-035]"
+      },
+      {
+        "id": "01d5f4_5ea43e711cfd47e09517ec48394f195b~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Crepe Silk Saree [CODE-035]"
+      },
+      {
+        "id": "01d5f4_2c3145b4542b433b89b720b29598db49~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Crepe Silk Saree [CODE-035]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "ceb8ce32-3035-1ec6-4e43-85e8e0f6197e",
+    "code": "093",
+    "codeNum": 93,
+    "orderIndex": 19,
+    "name": "Maroon Georgette Saree (CODE-093)",
+    "slug": "code-093",
+    "price": 1449,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "georgette-sarees"
+    ],
+    "productType": "Georgette",
+    "colors": [
+      "Red"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_de4898a793d347228be982ce68dfa157~mv2.jpeg",
+        "width": 2120,
+        "height": 3769,
+        "alt": "Maroon Georgette Saree (CODE-093)"
+      },
+      {
+        "id": "ee7c6c_1a54c5e94f0547f4bea0b2802661461b~mv2.jpeg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Maroon Georgette Saree (CODE-093)"
+      },
+      {
+        "id": "ee7c6c_7f5bea649bc04a79a66bb41078d2c538~mv2.jpeg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Maroon Georgette Saree (CODE-093)"
+      },
+      {
+        "id": "ee7c6c_8e162a0fa2754197a202b9b6fdd5d70a~mv2.jpeg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Maroon Georgette Saree (CODE-093)"
+      },
+      {
+        "id": "ee7c6c_5061bf6e8cc947bdb17230538aa9b7bb~mv2.jpeg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Maroon Georgette Saree (CODE-093)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "755ac433-01e5-e5ca-3d3d-bcd2fbafa3ac",
+    "code": "067",
+    "codeNum": 67,
+    "orderIndex": 20,
+    "name": "Premium Banarasi Silk Saree (CODE-067)",
+    "slug": "premium-banarasi-silk-saree-code-067",
+    "price": 1499,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 43,
+    "categories": [
+      "banarasi-sarees"
+    ],
+    "productType": "Banarasi Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_0c53f076a52b452385960b22f5c8fa0b~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Premium Banarasi Silk Saree (CODE-067)"
+      },
+      {
+        "id": "01d5f4_758615495b4e4cfba6e7c56b5fe40865~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Premium Banarasi Silk Saree (CODE-067)"
+      },
+      {
+        "id": "01d5f4_ea4ba013a45043439022be580c272e76~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Premium Banarasi Silk Saree (CODE-067)"
+      },
+      {
+        "id": "01d5f4_c9eb6b36a31a41b2958b116dc0ea6c6e~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Premium Banarasi Silk Saree (CODE-067)"
+      },
+      {
+        "id": "01d5f4_287e7baafbbd478286c30e1bcddfa02a~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Premium Banarasi Silk Saree (CODE-067)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "54cf495d-697d-f28b-6c29-3d43354936b3",
+    "code": "005",
+    "codeNum": 5,
+    "orderIndex": 21,
+    "name": "Tissue silk saree   [CODE-005]",
+    "slug": "tissue-silk-saree-product-code-005",
+    "price": 1799,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 0,
+    "categories": [
+      "tissue-silk-sarees"
+    ],
+    "productType": "Tissue Silk",
+    "colors": [
+      "Blue"
+    ],
+    "description": [
+      "Experience the allure of tradition with our exquisite Tissue Silk Saree [Product code 005] at Nidhu Vastra. This timeless piece showcases the perfect harmony of luxury and elegance, meticulously woven to elevate your ethnic wardrobe. Each thread tells a story of heritage, making you the embodiment of grace. Embrace the richness of culture and style, exclusively available for those who cherish true craftsmanship. Visit Nidhu Vastra and wrap yourself in timeless elegance today."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_616b0e55d1be4c29ad4500ad3513e288~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Tissue silk saree   [CODE-005]"
+      },
+      {
+        "id": "01d5f4_fb73a1b07f5140bd9b5cfda70fd556a8~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Tissue silk saree   [CODE-005]"
+      },
+      {
+        "id": "01d5f4_8f759dc93d6a403eae9b7f33eb80037e~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Tissue silk saree   [CODE-005]"
+      },
+      {
+        "id": "01d5f4_05cf78aa4ba148298587e41fd64a0f4a~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Tissue silk saree   [CODE-005]"
+      },
+      {
+        "id": "01d5f4_ddc1dc2d0c1a49f58264b8bebe677d1c~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Tissue silk saree   [CODE-005]"
+      },
+      {
+        "id": "01d5f4_12aad33d1cee4771a561e39c6808b6a1~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Tissue silk saree   [CODE-005]"
+      },
+      {
+        "id": "01d5f4_c153a61d63304326a372cfef5e62355e~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Tissue silk saree   [CODE-005]"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Madhu Nisha Hotel Reels-.mov",
+        "posterId": "01d5f4_783002a94078499fa04965922e0d4d48f002.jpg",
+        "mp4Url": "https://video.wixstatic.com/video/01d5f4_783002a94078499fa04965922e0d4d48/1080p/mp4/file.mp4"
+      }
+    ],
+    "options": [
+      {
+        "title": "color",
+        "type": "COLOR",
+        "selections": [
+          {
+            "id": 1,
+            "label": "Lavendar",
+            "hex": "#E6E6FA",
+            "linkedImageIds": [
+              "01d5f4_8f759dc93d6a403eae9b7f33eb80037e~mv2.png",
+              "01d5f4_ddc1dc2d0c1a49f58264b8bebe677d1c~mv2.png"
+            ]
+          },
+          {
+            "id": 2,
+            "label": "SKYBLUE",
+            "hex": "#87ceeb",
+            "linkedImageIds": [
+              "01d5f4_fb73a1b07f5140bd9b5cfda70fd556a8~mv2.png",
+              "01d5f4_05cf78aa4ba148298587e41fd64a0f4a~mv2.png",
+              "01d5f4_12aad33d1cee4771a561e39c6808b6a1~mv2.png"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4f3a7267-58c2-ef20-e1fb-b463c3797f1e",
+    "code": "068",
+    "codeNum": 68,
+    "orderIndex": 22,
+    "name": "Black Block Lines Crepe Silk Saree (CODE-068)",
+    "slug": "black-block-lines-crepe-silk-saree",
+    "price": 1500,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 43,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Black"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_d147c314682b4b148ae5e99f101d8c41~mv2.jpeg",
+        "width": 6210,
+        "height": 8272,
+        "alt": "Black Block Lines Crepe Silk Saree (CODE-068)"
+      },
+      {
+        "id": "01d5f4_f5952671c36a403aba591e192c2712dd~mv2.jpeg",
+        "width": 6210,
+        "height": 8272,
+        "alt": "Black Block Lines Crepe Silk Saree (CODE-068)"
+      },
+      {
+        "id": "01d5f4_6d3b70638f854dfd9a58c35fd914559d~mv2.jpeg",
+        "width": 6210,
+        "height": 8272,
+        "alt": "Black Block Lines Crepe Silk Saree (CODE-068)"
+      },
+      {
+        "id": "01d5f4_2715867414d94d82bcdabacfad617f34~mv2.jpeg",
+        "width": 6210,
+        "height": 8272,
+        "alt": "Black Block Lines Crepe Silk Saree (CODE-068)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "d5639bac-27a6-cec5-7c3d-0a395c406b9e",
+    "code": "042",
+    "codeNum": 42,
+    "orderIndex": 23,
+    "name": "Mysore Semi Crepe in Navy Blue [CODE-042]",
+    "slug": "042",
+    "price": 1449,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Blue"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_47470a8317da4a4f83cfc42e4a91071b~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe in Navy Blue [CODE-042]"
+      },
+      {
+        "id": "01d5f4_6d0f0e8266e44cf58d60012d9f0c8f80~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Mysore Semi Crepe in Navy Blue [CODE-042]"
+      },
+      {
+        "id": "01d5f4_e49c759ab9f442d5b1a40e6d90a55194~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe in Navy Blue [CODE-042]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "98f0323a-9670-6c7e-f312-16d96203503a",
+    "code": "092",
+    "codeNum": 92,
+    "orderIndex": 24,
+    "name": "Fancy Saree (CODE-092)",
+    "slug": "fancy-saree-code-092",
+    "price": 1299,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "fancy-sarees",
+      "georgette-sarees"
+    ],
+    "productType": "Fancy Designer",
+    "colors": [
+      "Black",
+      "White",
+      "Red",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This sophisticated black fancy saree features beautiful golden highlights and traditional printing, making it a powerful and enchanting addition to the NIDHUVASTRA storefront collection.",
+      "Midnight Onyx & Gold Fancy Saree",
+      "The Palette: A timeless Jet Black canvas, illuminated by metallic gold patterns and accented with subtle hints of terracotta red inside the motifs.The Craft: A premium lightweight fancy fabric—likely a semi-sheer georgette or chiffon blend—that balances a crisp, elegant drape with a fluid structure that flows gracefully.The Details: Detailed with horizontal gold zari dashed stripes across the body, a rich woven gold zari panel layout across the shoulder, and traditional Pichwai or Kalamkari-inspired bird and floral figures on the pallu.The Vibe: Universally striking, high-contrast, and deeply sophisticated; an exceptional pick for evening festive functions, cocktail parties, or traditional celebrations with a modern twist.Style Tip: Accentuate the look by pairing it with a solid black scoop-neck blouse with scalloped sleeve detailing and a statement white pearl or bead choker set as shown."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_ff3421a8a2604247b24e416ae2059cc9~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Fancy Saree (CODE-092)"
+      },
+      {
+        "id": "ee7c6c_f7eb73255c4b4467abb3f0eaec269a27~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Fancy Saree (CODE-092)"
+      },
+      {
+        "id": "ee7c6c_e57c938be3af4e5cbc3a71fea4bf4a57~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Fancy Saree (CODE-092)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "5717845c-7b95-836e-9b65-3601257a3d8f",
+    "code": "003",
+    "codeNum": 3,
+    "orderIndex": 25,
+    "name": "Mysore semi crepe silk saree [CODE-003 ]",
+    "slug": "mysore-semi-crepe-silk-saree-product-code-003",
+    "price": 1699,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Green",
+      "Red"
+    ],
+    "description": [
+      "Discover the graceful allure of the Mysore semi crepe silk saree [Product Code 003] at Nidhu Vastra. This exquisite piece blends tradition with a modern touch, ensuring you wrap yourself in timeless elegance with every thread. Its lustrous texture and vibrant hues make it a perfect choice for any occasion, symbolizing the rich heritage of Indian fashion. Elevate your wardrobe with this beautiful saree and experience the exceptional quality that Nidhu Vastra is known for."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_6fccdbfb73794ba3ba1d557a3a9aec32~mv2.png",
+        "width": 2048,
+        "height": 1365,
+        "alt": "Mysore semi crepe silk saree [CODE-003 ]"
+      },
+      {
+        "id": "01d5f4_5eb2e44f15d5457288319b9a0c876713~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Mysore semi crepe silk saree [CODE-003 ]"
+      },
+      {
+        "id": "01d5f4_743627a71a7642e9bc2ff22eeb29e527~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Mysore semi crepe silk saree [CODE-003 ]"
+      },
+      {
+        "id": "01d5f4_566a31e588f64e6a85c3d731a5ac2dff~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Mysore semi crepe silk saree [CODE-003 ]"
+      },
+      {
+        "id": "01d5f4_42dbb6b30156494984624dc4344f6538~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Mysore semi crepe silk saree [CODE-003 ]"
+      },
+      {
+        "id": "01d5f4_c10a5549f587471284f0fe7978b82e3e~mv2.jpg",
+        "width": 1200,
+        "height": 1600,
+        "alt": "Mysore semi crepe silk saree [CODE-003 ]"
+      },
+      {
+        "id": "01d5f4_756e2d0b832f4c5e8952a0357263cd08~mv2.jpg",
+        "width": 1038,
+        "height": 1658,
+        "alt": "Mysore semi crepe silk saree [CODE-003 ]"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Madhu Nisha Temple Reels.mov",
+        "posterId": "01d5f4_380ce5fb21204081b6bc96af2c5f65ddf002.jpg",
+        "mp4Url": "https://video.wixstatic.com/video/01d5f4_380ce5fb21204081b6bc96af2c5f65dd/1080p/mp4/file.mp4"
+      }
+    ],
+    "options": [
+      {
+        "title": "color",
+        "type": "COLOR",
+        "selections": [
+          {
+            "id": 1,
+            "label": "Green",
+            "hex": "#008000",
+            "linkedImageIds": [
+              "01d5f4_743627a71a7642e9bc2ff22eeb29e527~mv2.png",
+              "01d5f4_6fccdbfb73794ba3ba1d557a3a9aec32~mv2.png"
+            ]
+          },
+          {
+            "id": 2,
+            "label": "Wine",
+            "hex": "#000000",
+            "linkedImageIds": [
+              "01d5f4_5eb2e44f15d5457288319b9a0c876713~mv2.png"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "decf5b3e-2853-685b-615c-33116c70c232",
+    "code": "091",
+    "codeNum": 91,
+    "orderIndex": 26,
+    "name": "Tissue Silk (CODE-091)",
+    "slug": "tissue-silk-code-091",
+    "price": 2599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 230,
+    "categories": [
+      "tissue-silk-sarees"
+    ],
+    "productType": "Tissue Silk",
+    "colors": [
+      "Red",
+      "Pink",
+      "Green",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This stunning Olive Green and Mauve Pink Tissue Silk Saree is a magnificent blend of traditional charm and metallic radiance, making it a stellar premium addition to your Shopify platform.",
+      "Olive & Mauve Luminary Tissue Silk",
+      "The Palette: A rich, deep Olive Green body heavily infused with metallic gold undertones, beautifully framed by a soft Mauve Pink border and pallu that adds a gentle, feminine contrast.The Craft: Premium quality Tissue Silk, celebrated for its unique luminous sheen created by weaving fine metallic threads, providing a crisp, structured drape that commands a royal presence.The Details: Intricately woven with geometric gold zari checks and delicate floral buttis all over the body, paired with a broad pink zari border and a matching brocade blouse with traditional elbow-length sleeve detailing.The Vibe: Ultra-luxurious, heritage-inspired, and festive; an absolute showstopper choice for bridal parties, grand weddings, or high-profile cultural celebrations.Style Tip: Accentuate the majestic look by pairing it with traditional temple jewelry, a gold maang tikka, and a classic low bun decorated with fresh jasmine flowers as styled."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_5bfeb1d97f0247bdb44cee4f5d96068b~mv2.jpg",
+        "width": 1999,
+        "height": 3000,
+        "alt": "Tissue Silk (CODE-091)"
+      },
+      {
+        "id": "ee7c6c_464b0de9eee34c05ac2e424aad13677c~mv2.jpg",
+        "width": 1999,
+        "height": 3000,
+        "alt": "Tissue Silk (CODE-091)"
+      },
+      {
+        "id": "01d5f4_5fd64003c1ad4d25a08269c8426c7b7f~mv2.jpeg",
+        "width": 4672,
+        "height": 6229,
+        "alt": "Tissue Silk (CODE-091)"
+      },
+      {
+        "id": "01d5f4_65e1bb55af4848618d1568e284df1b9e~mv2.jpeg",
+        "width": 4672,
+        "height": 6229,
+        "alt": "Tissue Silk (CODE-091)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "35f75378-a0f8-b678-42a3-8dc7ecda2266",
+    "code": "077",
+    "codeNum": 77,
+    "orderIndex": 27,
+    "name": "Black Fancy Saree (CODE-077)",
+    "slug": "black-fancy-saree-code-077",
+    "price": 1249,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 54,
+    "categories": [
+      "fancy-sarees"
+    ],
+    "productType": "Fancy Designer",
+    "colors": [
+      "Black",
+      "Red",
+      "Blue",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This black fancy saree features a striking geometric design that is both modern and rooted in tradition. Here is the short and impactful description for your catalog:",
+      "Midnight Noir Geometric Fancy Saree",
+      "The Palette: A deep Midnight Black canvas accented with vibrant pops of crimson red and slate blue geometric motifs.The Craft: Premium lightweight fancy fabric designed for an effortless drape and all-day comfort.The Details: Intricate pyramid-inspired block prints interspersed with delicate diamond patterns, finished with a subtle matte gold border.The Vibe: Contemporary ethnic chic; the perfect choice for a sophisticated office look, brunch dates, or casual evening gatherings.Style Tip: Pair with a high-neck black blouse and a sleek silver watch to highlight the modern aesthetic of this NIDHUVASTRA piece."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_39c4e35e960e4cf5b619cc510b74c99d~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Black Fancy Saree (CODE-077)"
+      },
+      {
+        "id": "ee7c6c_aa833b6cc74b4f69be852228d1915427~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Black Fancy Saree (CODE-077)"
+      },
+      {
+        "id": "ee7c6c_9133397781ba456bbfd01df04d7832a3~mv2.jpeg",
+        "width": 2088,
+        "height": 3708,
+        "alt": "Black Fancy Saree (CODE-077)"
+      },
+      {
+        "id": "ee7c6c_80e7a5caad7d4326a62263fdaca22c23~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Black Fancy Saree (CODE-077)"
+      },
+      {
+        "id": "ee7c6c_a20c7adfe9fb4a7999b6eacf717e53d9~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Black Fancy Saree (CODE-077)"
+      },
+      {
+        "id": "ee7c6c_9daede7bb88c44989956736c7f03935a~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Black Fancy Saree (CODE-077)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "9987d677-182f-dd90-183e-179e569567cd",
+    "code": "058",
+    "codeNum": 58,
+    "orderIndex": 28,
+    "name": "Tissue Silk Saree (Brown with Gold Jari Border) code 058",
+    "slug": "tissue-silk-saree-brown-with-gold-jari-border",
+    "price": 2599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 199,
+    "categories": [
+      "tissue-silk-sarees"
+    ],
+    "productType": "Tissue Silk",
+    "colors": [
+      "Brown & Beige",
+      "Gold & Silver"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_0f23d7e96d68482f8e176f97fee3d744~mv2.jpg",
+        "width": 6108,
+        "height": 9162,
+        "alt": "Tissue Silk Saree (Brown with Gold Jari Border) code 058"
+      },
+      {
+        "id": "01d5f4_b236a2e879214ac18e5d6c3b4abc7b91~mv2.jpg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Tissue Silk Saree (Brown with Gold Jari Border) code 058"
+      },
+      {
+        "id": "01d5f4_7141650e334c418ba4ab7103e9aae0a9~mv2.jpg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Tissue Silk Saree (Brown with Gold Jari Border) code 058"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "990241af-a2e2-0aa9-6bb9-7c358a073dfe",
+    "code": "053",
+    "codeNum": 53,
+    "orderIndex": 29,
+    "name": "Mysore semi crêpe (Code 053)",
+    "slug": "mysore-semi-crêpe-code-053",
+    "price": 1699,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 14,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_a98b24a3ebf347a68a8a30b5023ccf05~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe (Code 053)"
+      },
+      {
+        "id": "ee7c6c_88ad307e580d4d5a90f4046ac47e2a5b~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe (Code 053)"
+      },
+      {
+        "id": "ee7c6c_353d9d4f9f744cddafc4618eca36f191~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Mysore semi crêpe (Code 053)"
+      },
+      {
+        "id": "ee7c6c_bbbbe84bdf7d4e62ad7fb5307dbe8db9~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe (Code 053)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "73fe8aa4-0b63-4c84-62ed-90b4b3b793c3",
+    "code": "006",
+    "codeNum": 6,
+    "orderIndex": 30,
+    "name": "Royal Blue Mysore Semi Crepe Silk Saree[CODE-006]",
+    "slug": "product-code-006",
+    "price": 1159,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 32,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Blue"
+    ],
+    "description": [
+      "Discover the allure of tradition with Nidhu Vastra's Product Code 006. This exquisite saree, crafted from Mysore Semi Crepe Silk, comes in a captivating Royal Blue, making it a timeless addition to your ethnic collection. Its luxurious fabric drapes beautifully, ensuring you stand out at any occasion. Remember, to maintain its elegance and sheen, dry clean only. Embrace tradition with every thread and make a statement of timeless elegance."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_2622a8c2822245b9ab11036a893da996~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Royal Blue Mysore Semi Crepe Silk Saree[CODE-006]"
+      },
+      {
+        "id": "01d5f4_734ad8bb6b164e54a39a84f0ba6aecf5~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Royal Blue Mysore Semi Crepe Silk Saree[CODE-006]"
+      },
+      {
+        "id": "01d5f4_ec2ff1c5882d432cb70ceef9c8cf2ee2~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Royal Blue Mysore Semi Crepe Silk Saree[CODE-006]"
+      },
+      {
+        "id": "01d5f4_13e1cb19dc2f49baa33ab03ac1013529~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Royal Blue Mysore Semi Crepe Silk Saree[CODE-006]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "b655adb2-37f8-a55a-9074-0cdcfd54deb6",
+    "code": "078",
+    "codeNum": 78,
+    "orderIndex": 31,
+    "name": "Silver with gold tissue silk saree (CODE-078)",
+    "slug": "silverwithgoldtissuesilksareecode-078",
+    "price": 1599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "tissue-silk-sarees"
+    ],
+    "productType": "Tissue Silk",
+    "colors": [
+      "Red",
+      "Gold & Silver"
+    ],
+    "description": [
+      "The interplay of silver and gold in this tissue silk saree creates a truly luminous effect. Here is the catalog description for your website:",
+      "Luminous Silver & Gold Tissue Silk (CODE-078)",
+      "The Palette: A brilliant, high-shine fusion of Sterling Silver and Radiant Gold that shifts beautifully with the light.The Craft: Masterfully woven Tissue Silk, offering a structured yet airy drape with a liquid-metal sheen.The Details: Features a seamless blend of metallic tones, finished with a classic zari border that enhances its reflective quality.The Vibe: Pure celestial elegance; a standout choice for receptions, red-carpet events, or grand festive celebrations.Style Tip: Pair with contrasting emerald or ruby jewelry to add a pop of color against the metallic brilliance of the NIDHUVASTRA collection."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_8d96bd0e9f704850a2a3d346e155796d~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Silver with gold tissue silk saree (CODE-078)"
+      },
+      {
+        "id": "ee7c6c_f1e908df79d74f50a7157b52a36163bc~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Silver with gold tissue silk saree (CODE-078)"
+      },
+      {
+        "id": "ee7c6c_48350e2b55254208bd51d7f7288fa818~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Silver with gold tissue silk saree (CODE-078)"
+      },
+      {
+        "id": "ee7c6c_fbd04902ede040b3b299683c5622b228~mv2.jpeg",
+        "width": 2851,
+        "height": 4096,
+        "alt": "Silver with gold tissue silk saree (CODE-078)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "b54e7ce6-125f-efac-be77-b2e5ca5f44e6",
+    "code": "051",
+    "codeNum": 51,
+    "orderIndex": 32,
+    "name": "Mysore semi crêpe silk (Code051)",
+    "slug": "051",
+    "price": 1599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 8,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_da817b58b784461387f706f1b1334b2b~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe silk (Code051)"
+      },
+      {
+        "id": "ee7c6c_ac743b464e5c4058bb8b215525cd722e~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe silk (Code051)"
+      },
+      {
+        "id": "ee7c6c_c4cee1e9d07e4c47ad5bc0d3d7860c28~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe silk (Code051)"
+      },
+      {
+        "id": "ee7c6c_b291741dee95406cb471d2b8495f9d74~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe silk (Code051)"
+      },
+      {
+        "id": "ee7c6c_8861df7ffbea4fd0824d0dec4732d8f9~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe silk (Code051)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "8a65387e-31e6-9cff-aae6-4b910e2442cb",
+    "code": "065",
+    "codeNum": 65,
+    "orderIndex": 33,
+    "name": "Lavender Premium Banarasi Silk Saree (CODE-065)",
+    "slug": "lavender-premium-banarasi-silk-saree-code-065",
+    "price": 1550,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 15,
+    "categories": [
+      "banarasi-sarees"
+    ],
+    "productType": "Banarasi Silk",
+    "colors": [
+      "Purple & Lavender"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_fca5741bcb0d47ca91c4af734749f681~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Lavender Premium Banarasi Silk Saree (CODE-065)"
+      },
+      {
+        "id": "01d5f4_7a6d48327b464338aca6702b27729306~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Lavender Premium Banarasi Silk Saree (CODE-065)"
+      },
+      {
+        "id": "01d5f4_6a2271fe03194f5abd6d3ab35d455ff6~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Lavender Premium Banarasi Silk Saree (CODE-065)"
+      },
+      {
+        "id": "01d5f4_8c15c683c9834347853ac8c3868ad9c1~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Lavender Premium Banarasi Silk Saree (CODE-065)"
+      },
+      {
+        "id": "01d5f4_27d1ddba2b454f9a8b720ebcfe42d334~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Lavender Premium Banarasi Silk Saree (CODE-065)"
+      },
+      {
+        "id": "01d5f4_006e49296a1f427f93431c11cfce060e~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Lavender Premium Banarasi Silk Saree (CODE-065)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "313d495a-d86a-6e3e-ba91-1b7937ee1af4",
+    "code": "070",
+    "codeNum": 70,
+    "orderIndex": 34,
+    "name": "Rust Orange With Brown Semi Crepe Silk Saree (CODE-070)",
+    "slug": "rust-orange-with-brown-semi-crepe-silk-saree",
+    "price": 1499,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Orange & Rust",
+      "Brown & Beige"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_2196a07d3b4049fcb00996c6a78ca12b~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Rust Orange With Brown Semi Crepe Silk Saree (CODE-070)"
+      },
+      {
+        "id": "01d5f4_2bcd7d62d8e144e6935b9530862faf7d~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Rust Orange With Brown Semi Crepe Silk Saree (CODE-070)"
+      },
+      {
+        "id": "01d5f4_6803aa559fed4d6fb3f52aa8a6467faa~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Rust Orange With Brown Semi Crepe Silk Saree (CODE-070)"
+      },
+      {
+        "id": "01d5f4_64f56e17c3e04bae8e1465945a7f7d40~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Rust Orange With Brown Semi Crepe Silk Saree (CODE-070)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "d11b8a90-31af-d2c5-5e7c-1bd990bdd6b5",
+    "code": "049",
+    "codeNum": 49,
+    "orderIndex": 35,
+    "name": "Mysore semi crêpe yellow with black premium quality code049",
+    "slug": "mysore-semi-crêpe-yellow-with-black-premium-quality-code049",
+    "price": 1799,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 18,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Black",
+      "Yellow & Mustard"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_968fd37082274fd4b9065bcd9c11bbda~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe yellow with black premium quality code049"
+      },
+      {
+        "id": "ee7c6c_f3f0fa74021945718f36e785974a5f65~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe yellow with black premium quality code049"
+      },
+      {
+        "id": "ee7c6c_2d9174f8a95746c29644b24e2f8ccd13~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe yellow with black premium quality code049"
+      },
+      {
+        "id": "ee7c6c_c9ac406d975c48c78b5f4f931bda9787~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe yellow with black premium quality code049"
+      },
+      {
+        "id": "ee7c6c_40d5446eeccd4fd0a4cc9006efcc0927~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe yellow with black premium quality code049"
+      },
+      {
+        "id": "ee7c6c_1d2adfc7c611496e9b6be6c426076bb8~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe yellow with black premium quality code049"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "207c2966-df9e-ec4b-8fae-ea5be9748ddb",
+    "code": "080",
+    "codeNum": 80,
+    "orderIndex": 36,
+    "name": "Gold Tissue Silk Saree (CODE-080)",
+    "slug": "gold-tissue-silk-saree-code-080",
+    "price": 1699,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "tissue-silk-sarees"
+    ],
+    "productType": "Tissue Silk",
+    "colors": [
+      "Yellow & Mustard",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This gold tissue silk saree exudes a radiant, celebratory energy. Here is the short and impactful description for your website:",
+      "Golden Radiance Tissue Silk Saree",
+      "The Palette: An opulent, monochrome palette of shimmering Champagne Gold and bright Metallic Yellow.The Craft: Exquisite Tissue Silk that offers a crisp, lightweight structure and a high-gloss finish that brilliantly reflects ambient light.The Details: Subtle floral self-embossed motifs across the body, complemented by a broad, matching zari border and a rich, traditional pallu.The Vibe: Ultimate festive luxury; designed for grand weddings, temple ceremonies, or significant milestones.Style Tip: Elevate the look with a heavy gold choker and traditional temple jewelry to match the saree's regal brilliance."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_71429cb041e54ca48176e7ba1efc2fa8~mv2.jpeg",
+        "width": 3001,
+        "height": 3998,
+        "alt": "Gold Tissue Silk Saree (CODE-080)"
+      },
+      {
+        "id": "ee7c6c_2c255ceb39204899b4b91120d264c1bd~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Gold Tissue Silk Saree (CODE-080)"
+      },
+      {
+        "id": "ee7c6c_3a3dffe46c2644f59e3c7ced584eae8a~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Gold Tissue Silk Saree (CODE-080)"
+      },
+      {
+        "id": "ee7c6c_dadee441520444148542c22fe747ca79~mv2.jpeg",
+        "width": 3001,
+        "height": 3998,
+        "alt": "Gold Tissue Silk Saree (CODE-080)"
+      },
+      {
+        "id": "ee7c6c_6bd5fbb1e9f74525a63143e822a6c150~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Gold Tissue Silk Saree (CODE-080)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "d0b21697-e5d1-ef3b-f0dc-8d6777096e42",
+    "code": "019",
+    "codeNum": 19,
+    "orderIndex": 37,
+    "name": "Ajrakh saree satin silk-Black with Red[CODE-019]",
+    "slug": "ajrakh-saree-satin-silk-black-with-red-code019",
+    "price": 1149,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 4,
+    "categories": [
+      "satin-sarees"
+    ],
+    "productType": "Satin Silk",
+    "colors": [
+      "Black",
+      "Red"
+    ],
+    "description": [
+      "Discover unparalleled beauty with our Ajrakh saree in satin silk [Black with Red] CODE019, an exquisite blend of tradition and elegance. Each thread of this saree embodies Nidhu Vastra's commitment to timeless fashion, showcasing intricate craftsmanship that honors ancient techniques. Designed for the modern woman who cherishes cultural heritage, this saree drapes you in sophistication and grace. Embrace a piece of art that resonates with our values of quality and authenticity, making every occasion a celebration of style and tradition."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_f03a3958e8124ccfbeda7d27ed7ba0f2~mv2.jpg",
+        "width": 5063,
+        "height": 7591,
+        "alt": "Ajrakh saree satin silk-Black with Red[CODE-019]"
+      },
+      {
+        "id": "01d5f4_cf0072cb6cf9459aa8044fa95250b6b0~mv2.jpg",
+        "width": 5203,
+        "height": 7370,
+        "alt": "Ajrakh saree satin silk-Black with Red[CODE-019]"
+      },
+      {
+        "id": "01d5f4_ce245d3c622f43e6a9894d97ac48e8b9~mv2.jpg",
+        "width": 5304,
+        "height": 7952,
+        "alt": "Ajrakh saree satin silk-Black with Red[CODE-019]"
+      },
+      {
+        "id": "01d5f4_888ba2a14a7e4fe9a08b4788ed23f40f~mv2.jpg",
+        "width": 5085,
+        "height": 7624,
+        "alt": "Ajrakh saree satin silk-Black with Red[CODE-019]"
+      },
+      {
+        "id": "01d5f4_02eb9bcc9dd3407bbaf5d443c338478c~mv2.jpg",
+        "width": 5048,
+        "height": 3368,
+        "alt": "Ajrakh saree satin silk-Black with Red[CODE-019]"
+      },
+      {
+        "id": "01d5f4_7486dca40a0841b0828e370b5b4758ca~mv2.jpg",
+        "width": 5229,
+        "height": 7840,
+        "alt": "Ajrakh saree satin silk-Black with Red[CODE-019]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "eea48627-d4ac-9300-4819-89c2a649b04e",
+    "code": "083",
+    "codeNum": 83,
+    "orderIndex": 38,
+    "name": "Semi Crepe Silk  Saree (CODE-083)",
+    "slug": "semi-crepe-silk-saree-code-083",
+    "price": 1599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Blue",
+      "Purple & Lavender",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This dual-tone Mysore semi crepe silk saree is a vibrant and artistic addition, perfectly suited for the NIDHUVASTRA Mysore Heritage line.",
+      "Teal & Royal Amethyst Semi Crepe Silk",
+      "The Palette: A refreshing Aqua Teal upper half contrasted against a deep, majestic Royal Purple lower body, creating a striking visual balance.The Craft: Superior Mysore Semi Crepe Silk, valued for its buttery-soft texture and a flawless, fluid drape that ensures comfort throughout the day.The Details: Beautifully adorned with gold zari paisley (mango) motifs across the teal section, complemented by a clean gold zari border that defines the silhouette.The Vibe: Joyful, elegant, and traditional with a modern twist; an ideal choice for morning weddings, festive brunches, or family celebrations.Style Tip: Highlight the contrasting colors by pairing it with a simple gold chain and a traditional bindi as shown to complete the signature NIDHUVASTRA look."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_63ab2daf6c504e27b253ea21a885fdf8~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Semi Crepe Silk  Saree (CODE-083)"
+      },
+      {
+        "id": "ee7c6c_ca4673936ea14ed3aed1bf9089a903c9~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Semi Crepe Silk  Saree (CODE-083)"
+      },
+      {
+        "id": "ee7c6c_14e78bdd71d1439b844d348614c088ed~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Semi Crepe Silk  Saree (CODE-083)"
+      },
+      {
+        "id": "ee7c6c_37f971874cce46a68c6e629b7a643607~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Semi Crepe Silk  Saree (CODE-083)"
+      },
+      {
+        "id": "ee7c6c_f00efea5260b42cdb41d2bc76c727d19~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Semi Crepe Silk  Saree (CODE-083)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "24b58f2d-d644-b45b-01d4-b31e7862cd90",
+    "code": "007",
+    "codeNum": 7,
+    "orderIndex": 39,
+    "name": "Peach Organza Silk Banarasi Saree [CODE-007]",
+    "slug": "product-code-007",
+    "price": 1499,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 18,
+    "categories": [
+      "banarasi-sarees"
+    ],
+    "productType": "Banarasi Silk",
+    "colors": [
+      "Pink",
+      "Gold & Silver"
+    ],
+    "description": [],
+    "specs": {
+      "Product Code": "007 \nPeach organza silk banarasi saree with golden zari leheriya weaving work"
+    },
+    "images": [
+      {
+        "id": "01d5f4_b89d004d5dc64e508af5dd10f8d9b6c9~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Peach Organza Silk Banarasi Saree [CODE-007]"
+      },
+      {
+        "id": "01d5f4_425d733e1cdc4a0cbfa34030dc6556d5~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Peach Organza Silk Banarasi Saree [CODE-007]"
+      },
+      {
+        "id": "01d5f4_3d9cd272d6e84d409c14cd4478702a47~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Peach Organza Silk Banarasi Saree [CODE-007]"
+      },
+      {
+        "id": "01d5f4_d0c9b41cc0e64f5a88ea1b51e48d8b49~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Peach Organza Silk Banarasi Saree [CODE-007]"
+      }
+    ],
+    "videos": [
+      {
+        "title": "madhu.mp4",
+        "posterId": "01d5f4_b6833d86547d4b719d30824ad0f7261af003.jpg",
+        "mp4Url": "https://video.wixstatic.com/video/01d5f4_b6833d86547d4b719d30824ad0f7261a/720p/mp4/file.mp4"
+      }
+    ],
+    "options": []
+  },
+  {
+    "id": "c09b27aa-462c-5a21-7611-78a74f1cdfb5",
+    "code": "026",
+    "codeNum": 26,
+    "orderIndex": 40,
+    "name": "Cotton Saree- Black With Brick Colour [CODE-026]",
+    "slug": "026",
+    "price": 1199,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 43,
+    "categories": [
+      "cotton-sarees"
+    ],
+    "productType": "Cotton",
+    "colors": [
+      "Black",
+      "Brown & Beige"
+    ],
+    "description": [
+      "Adorn yourself with the exquisite Cotton Saree (Black With Brick Colour) CODE026, meticulously designed for those who cherish tradition and timeless elegance. Crafted by Nidhu Vastra, this saree harmoniously blends rich black with a vibrant brick hue, showcasing your sophisticated style. The lightweight cotton fabric ensures comfort, making it perfect for any occasion. Wrap yourself in the cultural heritage and superior craftsmanship that Nidhu Vastra values. Embrace every thread with pride and grace."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_311f56a2700b4c7c94a39db7c86efb0e~mv2.jpeg",
+        "width": 4096,
+        "height": 2730,
+        "alt": "Cotton Saree- Black With Brick Colour [CODE-026]"
+      },
+      {
+        "id": "01d5f4_b02ab8a89b0e4c39826b315e88ad7319~mv2.jpeg",
+        "width": 2799,
+        "height": 4096,
+        "alt": "Cotton Saree- Black With Brick Colour [CODE-026]"
+      },
+      {
+        "id": "01d5f4_c42511a265e448ffa233445260be1daf~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Cotton Saree- Black With Brick Colour [CODE-026]"
+      },
+      {
+        "id": "01d5f4_d20b86cf8c0a42f1ae1547d360342972~mv2.jpeg",
+        "width": 4096,
+        "height": 2730,
+        "alt": "Cotton Saree- Black With Brick Colour [CODE-026]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "5714c3d6-13b9-18cf-5bf0-a3f21066b6a5",
+    "code": "071",
+    "codeNum": 71,
+    "orderIndex": 41,
+    "name": "Onion Colour Self Semi Crepe Silk Saree (CODE-071)",
+    "slug": "onion-colour-self-semi-crepe-silk-saree-code-071",
+    "price": 1399,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 52,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Pink"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_cd7710fd00134e47972206b172faa35d~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Onion Colour Self Semi Crepe Silk Saree (CODE-071)"
+      },
+      {
+        "id": "ee7c6c_ac37de44c42b4b45909c3885b17b073e~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Onion Colour Self Semi Crepe Silk Saree (CODE-071)"
+      },
+      {
+        "id": "ee7c6c_2cd91ba74b864efaa22d9e9fc182cfdb~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Onion Colour Self Semi Crepe Silk Saree (CODE-071)"
+      },
+      {
+        "id": "ee7c6c_040aa643cab44507bb1d48be0199fa82~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Onion Colour Self Semi Crepe Silk Saree (CODE-071)"
+      },
+      {
+        "id": "ee7c6c_dc1cafeffadf4fadbb88ef81bc30bbc9~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Onion Colour Self Semi Crepe Silk Saree (CODE-071)"
+      },
+      {
+        "id": "ee7c6c_24303c6ddb8349ca9d5b08b51d8c04f5~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Onion Colour Self Semi Crepe Silk Saree (CODE-071)"
+      },
+      {
+        "id": "ee7c6c_262fab4d16ff46b9b53786a66f591be3~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Onion Colour Self Semi Crepe Silk Saree (CODE-071)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "50c3bd54-5d4e-3177-ed8f-b231d2f05931",
+    "code": "084",
+    "codeNum": 84,
+    "orderIndex": 42,
+    "name": "Blouse Cotton Saree (CODE-084)",
+    "slug": "cotton-saree-code-084",
+    "price": 1149,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 42,
+    "categories": [
+      "cotton-sarees"
+    ],
+    "productType": "Cotton",
+    "colors": [
+      "White",
+      "Red",
+      "Blue"
+    ],
+    "description": [
+      "This Indigo and White Tie-Dye Cotton saree is a fresh and contemporary addition, perfect for the NIDHUVASTRA professional and casual wear segments.",
+      "Indigo Wave Tie-Dye Cotton Saree",
+      "The Palette: A deep, classic Indigo base accented with striking white tie-dye patterns that create a dynamic, wave-like visual effect.The Craft: Pure breathable cotton, specifically chosen for its lightweight texture and comfort, making it an ideal choice for the Indian climate.The Details: Features a clean, minimalist finish without heavy borders, allowing the bold tie-dye artistry to take center stage.The Vibe: Effortlessly chic and modern; a perfect selection for creative office environments, casual outings, or daytime social gatherings.Style Tip: For a contemporary look, pair it with a white lace or textured long-sleeve blouse and statement blue earrings as shown to complete the signature NIDHUVASTRA aesthetic."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_3bb254e9cf2046b4aedf6ed3594d771a~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Blouse Cotton Saree (CODE-084)"
+      },
+      {
+        "id": "01d5f4_89899708d50b4531ad9e349dc4bd8ef8~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Blouse Cotton Saree (CODE-084)"
+      },
+      {
+        "id": "01d5f4_dc38a083ab8f4ca58ba64d0153e0b431~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Blouse Cotton Saree (CODE-084)"
+      },
+      {
+        "id": "01d5f4_39441a2acdda4357a7d630560b0483ea~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Blouse Cotton Saree (CODE-084)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "50b2df1d-f1eb-2e6b-cd91-ab8acc8d50eb",
+    "code": "064",
+    "codeNum": 64,
+    "orderIndex": 43,
+    "name": "Banarasi Silk Saree (CODE-064)",
+    "slug": "banarasi-silk-saree-code-064",
+    "price": 1250,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 23,
+    "categories": [
+      "banarasi-sarees"
+    ],
+    "productType": "Banarasi Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_06946813c0c3415791eefd463faeb00b~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Banarasi Silk Saree (CODE-064)"
+      },
+      {
+        "id": "01d5f4_1beab0cbc7924c859307af2fb343f404~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Banarasi Silk Saree (CODE-064)"
+      },
+      {
+        "id": "01d5f4_994ddf3783e541faa785c70c661c657f~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Banarasi Silk Saree (CODE-064)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "adabc7e6-ae99-e5f6-5ba1-756afd16ec89",
+    "code": "011",
+    "codeNum": 11,
+    "orderIndex": 44,
+    "name": "Lavender Premium Muga Cotton Saree with Resham pichwai weaving pallu [CODE-011]",
+    "slug": "lavender-premium-muga-cotton-saree-with-resham-pichwai-weaving-pallu-code-011",
+    "price": 2099,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 2,
+    "categories": [
+      "cotton-sarees"
+    ],
+    "productType": "Muga Cotton",
+    "colors": [
+      "Purple & Lavender"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_19e318d804af4ee3bba8bd88e4c40493~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Lavender Premium Muga Cotton Saree with Resham pichwai weaving pallu [CODE-011]"
+      },
+      {
+        "id": "01d5f4_6513470cf1b6422187c57501b40c0a06~mv2.jpeg",
+        "width": 4096,
+        "height": 2730,
+        "alt": "Lavender Premium Muga Cotton Saree with Resham pichwai weaving pallu [CODE-011]"
+      },
+      {
+        "id": "01d5f4_73b14418b0164b51adcc8e7a9ef02727~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Lavender Premium Muga Cotton Saree with Resham pichwai weaving pallu [CODE-011]"
+      },
+      {
+        "id": "01d5f4_d22ad1b1185d4d1da6b0f88966a3b69e~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Lavender Premium Muga Cotton Saree with Resham pichwai weaving pallu [CODE-011]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "e6013142-2124-7cb5-833c-79f528eac00d",
+    "code": "001",
+    "codeNum": 1,
+    "orderIndex": 45,
+    "name": "Cream color soft katan silk saree with zari weaving work [CODE - 001]",
+    "slug": "cream-color-soft-katan-silk-saree-with-zari-weaving-work-product-code-001",
+    "price": 1899,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 23,
+    "categories": [
+      "kanjivaram-sarees"
+    ],
+    "productType": "Katan Silk",
+    "colors": [
+      "White",
+      "Gold & Silver"
+    ],
+    "description": [],
+    "specs": {
+      "Product Code": "001",
+      "Fabric": "Katan silk",
+      "Blouse": "Length0.8 Mtr.",
+      "Saree Length": "5.5 Mtr.",
+      "Work": "Zari weaving work",
+      "Care Instruction": "Dry clean only"
+    },
+    "images": [
+      {
+        "id": "01d5f4_95ff832d32ee49d191b663c6fa8a0e71~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Cream color soft katan silk saree with zari weaving work [CODE - 001]"
+      },
+      {
+        "id": "01d5f4_560d896258e44e1bba9207e601a3853c~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Cream color soft katan silk saree with zari weaving work [CODE - 001]"
+      },
+      {
+        "id": "01d5f4_8bd9349b90e647c8b2b3085ec965cbdc~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Cream color soft katan silk saree with zari weaving work [CODE - 001]"
+      },
+      {
+        "id": "01d5f4_8c882ab60211400e8476166248291146~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Cream color soft katan silk saree with zari weaving work [CODE - 001]"
+      },
+      {
+        "id": "01d5f4_f22be9ce1a3148b185f84ced4a3ddefe~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Cream color soft katan silk saree with zari weaving work [CODE - 001]"
+      },
+      {
+        "id": "01d5f4_c5928ef79be940c1910c515dff53076a~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Cream color soft katan silk saree with zari weaving work [CODE - 001]"
+      },
+      {
+        "id": "01d5f4_8414345afa4f4e82859883cbff13be5d~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Cream color soft katan silk saree with zari weaving work [CODE - 001]"
+      },
+      {
+        "id": "01d5f4_3c58a93fd9d24d4db04cf29f7150ed87~mv2.png",
+        "width": 2048,
+        "height": 1365,
+        "alt": "Cream color soft katan silk saree with zari weaving work [CODE - 001]"
+      },
+      {
+        "id": "01d5f4_aa32833731db49429d231f05d20444a6~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Cream color soft katan silk saree with zari weaving work [CODE - 001]"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Madhu Nisha Mysore Reels- 2.mov",
+        "posterId": "01d5f4_65d95116806b4d439161961d945e50f6f002.jpg",
+        "mp4Url": "https://video.wixstatic.com/video/01d5f4_65d95116806b4d439161961d945e50f6/1080p/mp4/file.mp4"
+      }
+    ],
+    "options": []
+  },
+  {
+    "id": "34b023c7-3f23-9020-fe1c-b2c333d271f1",
+    "code": "016",
+    "codeNum": 16,
+    "orderIndex": 46,
+    "name": "Mysore semi crepe silk saree -Sky blue [CODE-016]",
+    "slug": "mysore-semi-crepe-silk-saree-sky-blue-code-016",
+    "price": 1490,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Blue"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_dc6e365f5f004cecbaa367d1cca8e497~mv2.jpeg",
+        "width": 2731,
+        "height": 4096,
+        "alt": "Mysore semi crepe silk saree -Sky blue [CODE-016]"
+      },
+      {
+        "id": "01d5f4_a663ca9588dd427c91815cd9d5ef936d~mv2.jpeg",
+        "width": 2677,
+        "height": 4096,
+        "alt": "Mysore semi crepe silk saree -Sky blue [CODE-016]"
+      },
+      {
+        "id": "01d5f4_20b12b4bcf134a85865f6d3f2f259bec~mv2.jpeg",
+        "width": 2732,
+        "height": 4096,
+        "alt": "Mysore semi crepe silk saree -Sky blue [CODE-016]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "3fa4cb0f-8c78-c1dc-3ce2-2e84cf7489d2",
+    "code": "061",
+    "codeNum": 61,
+    "orderIndex": 47,
+    "name": "Mysore Semi Crepe Silk  Saree -Code 061",
+    "slug": "mysore-semi-crêpe-code-061",
+    "price": 1699,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_e835a784edb14036922b794427aa0985~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe Silk  Saree -Code 061"
+      },
+      {
+        "id": "ee7c6c_064e32214bb148c2a91e7313be2ecc87~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe Silk  Saree -Code 061"
+      },
+      {
+        "id": "ee7c6c_9cd8e039270b4bc2818206e19ddde24b~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe Silk  Saree -Code 061"
+      },
+      {
+        "id": "ee7c6c_acb22aedd9df4d528a453d9750a650dd~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe Silk  Saree -Code 061"
+      },
+      {
+        "id": "ee7c6c_d47e964992ab4fcd9870d7416cd4856a~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe Silk  Saree -Code 061"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "dbe38a4f-e43a-30a9-0b2c-895fd16805a6",
+    "code": "014",
+    "codeNum": 14,
+    "orderIndex": 48,
+    "name": "Mysore Semi Crepe Silk Saree-Blood Red Colour[CODE-014]",
+    "slug": "mysore-semi-crepe-silk-saree-blood-red-colour-code-014",
+    "price": 1599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 36,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Red",
+      "Orange & Rust"
+    ],
+    "description": [
+      "Experience the epitome of grace with the Mysore Semi Crepe Silk Saree in a captivating blood-red hue, exclusive to Nidhu Vastra. Each saree, CODE 014, exudes timeless elegance, embracing tradition with every finely woven thread. The luxurious fabric drapes effortlessly, making it perfect for both grand celebrations and intimate gatherings. Trust in Nidhu Vastra's commitment to quality and style, ensuring you wrap yourself in unparalleled sophistication."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_791465352e0e4377bad3726569ba52f5~mv2.jpg",
+        "width": 5304,
+        "height": 7952,
+        "alt": "Mysore Semi Crepe Silk Saree-Blood Red Colour[CODE-014]"
+      },
+      {
+        "id": "01d5f4_77599829cc6048c4b353e730809f59b6~mv2.jpg",
+        "width": 5224,
+        "height": 7763,
+        "alt": "Mysore Semi Crepe Silk Saree-Blood Red Colour[CODE-014]"
+      },
+      {
+        "id": "01d5f4_8a8a866762a2490d9effd6d0e3f801df~mv2.jpg",
+        "width": 7952,
+        "height": 5304,
+        "alt": "Mysore Semi Crepe Silk Saree-Blood Red Colour[CODE-014]"
+      },
+      {
+        "id": "01d5f4_5f1a47b055b34e4b95ee95c08bf65d80~mv2.jpg",
+        "width": 5304,
+        "height": 7952,
+        "alt": "Mysore Semi Crepe Silk Saree-Blood Red Colour[CODE-014]"
+      },
+      {
+        "id": "01d5f4_ab4e4eeabd2b4badb9f64d90f19c5492~mv2.jpg",
+        "width": 5304,
+        "height": 7952,
+        "alt": "Mysore Semi Crepe Silk Saree-Blood Red Colour[CODE-014]"
+      },
+      {
+        "id": "01d5f4_fdcdc4b68b21464c8ddb4750ecaf78b6~mv2.jpg",
+        "width": 5304,
+        "height": 7952,
+        "alt": "Mysore Semi Crepe Silk Saree-Blood Red Colour[CODE-014]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "6230e8ff-313b-c30b-b0f8-8575fda31e8c",
+    "code": "043",
+    "codeNum": 43,
+    "orderIndex": 49,
+    "name": "crepe silk saree [CODE-043]",
+    "slug": "043",
+    "price": 1299,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 31,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_aac7672dab30471a935f13e6797581a0~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "crepe silk saree [CODE-043]"
+      },
+      {
+        "id": "01d5f4_11434969c7b94375a0534df247e32055~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "crepe silk saree [CODE-043]"
+      },
+      {
+        "id": "01d5f4_8b07e3d759d74566b14b95bcf10ea669~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "crepe silk saree [CODE-043]"
+      },
+      {
+        "id": "01d5f4_ff2c330a44c54c54a8dd1330566add92~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "crepe silk saree [CODE-043]"
+      },
+      {
+        "id": "01d5f4_fc3608e80ff74ed8a04138f67135cdfd~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "crepe silk saree [CODE-043]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "61b23edc-89cd-1a67-a3b9-64b788bf77c3",
+    "code": "038",
+    "codeNum": 38,
+    "orderIndex": 50,
+    "name": "Mysore Semi Crepe Maroon Colour [CODE-038]",
+    "slug": "code-038",
+    "price": 1399,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Red"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_e4e6b19900924ceba066dc7d168a5ab9~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe Maroon Colour [CODE-038]"
+      },
+      {
+        "id": "01d5f4_3b0279c837974fcd8a37b4aff9cfa999~mv2.jpeg",
+        "width": 4096,
+        "height": 2730,
+        "alt": "Mysore Semi Crepe Maroon Colour [CODE-038]"
+      },
+      {
+        "id": "01d5f4_fbc5ec2768844232837f3c149698aa73~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe Maroon Colour [CODE-038]"
+      },
+      {
+        "id": "01d5f4_313fa89ad8f840cc87a7de70ef3d172a~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe Maroon Colour [CODE-038]"
+      },
+      {
+        "id": "01d5f4_ea114baf5efd49f7b6997e97cd4c3064~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe Maroon Colour [CODE-038]"
+      },
+      {
+        "id": "01d5f4_dfdb244720dc44c486d9cde30cffe060~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe Maroon Colour [CODE-038]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "5e9be262-2639-254b-605c-37df4fa7f7df",
+    "code": "082",
+    "codeNum": 82,
+    "orderIndex": 51,
+    "name": "Lavender with Gold Tissue Silk Saree (CODE-082)",
+    "slug": "lavender-with-gold-tissue-silk-saree-code-082",
+    "price": 1599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 4,
+    "categories": [
+      "tissue-silk-sarees"
+    ],
+    "productType": "Tissue Silk",
+    "colors": [
+      "Red",
+      "Purple & Lavender",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This Lavender with Gold Tissue Silk Saree is a radiant showstopper, offering a high-gloss, metallic finish that is perfect for the NIDHUVASTRA Shopify collection.",
+      "Amethyst Glow Lavender Tissue Silk",
+      "The Palette: A luminous Lavender base infused with metallic gold threads, creating a shimmering, iridescent effect that shifts with the light.The Craft: Premium Tissue Silk, celebrated for its ultra-lightweight feel and a crisp, structured drape that provides a majestic silhouette.The Details: Features a broad, ornate gold zari border and a matching rich zari pallu, complemented by a metallic lavender blouse with gold weaving.The Vibe: Exceptionally regal and festive; a quintessential choice for wedding receptions, grand galas, or high-profile evening celebrations.Style Tip: Highlight the metallic sheen by pairing it with a traditional gold and pearl necklace set and matching bangles as shown to complete the signature NIDHUVASTRA aesthetic."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_5b29ef47150e428baee718021be55c26~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Lavender with Gold Tissue Silk Saree (CODE-082)"
+      },
+      {
+        "id": "01d5f4_f0b12643866b42ea92af6789910f1bf7~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Lavender with Gold Tissue Silk Saree (CODE-082)"
+      },
+      {
+        "id": "01d5f4_d4ae1c6de0604feb8ac82b154405fd22~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Lavender with Gold Tissue Silk Saree (CODE-082)"
+      },
+      {
+        "id": "01d5f4_e8f45f81cb2644bda5caa48649ccbf54~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Lavender with Gold Tissue Silk Saree (CODE-082)"
+      },
+      {
+        "id": "01d5f4_c4544281e258442080685d4b6c0d64fa~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Lavender with Gold Tissue Silk Saree (CODE-082)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "ba6d6946-5e28-4a9c-cef7-68d021823360",
+    "code": "012",
+    "codeNum": 12,
+    "orderIndex": 52,
+    "name": "Tissue Kutu Saree Premium Quality Gold and Red Combination  [CODE-012]",
+    "slug": "product-code-012",
+    "price": 2450,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "kanjivaram-sarees",
+      "tissue-silk-sarees"
+    ],
+    "productType": "Tissue Silk",
+    "colors": [
+      "Red",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This Tissue Kutu saree in a classic gold and red combination is a breathtaking masterpiece of traditional craftsmanship, making it a prestigious addition to the NIDHUVASTRA digital storefront.",
+      "Gilded Crimson Tissue Kutu Silk",
+      "The Palette: A shimmering Metallic Gold body that radiates a luxurious glow, perfectly contrasted by a vibrant Vermillion Red border and pallu.The Craft: Woven from Premium Quality Tissue Silk, renowned for its fine metallic sheen, lightweight feel, and crisp, elegant drape.The Details: Features an ornate red border intricately woven with traditional gold zari patterns, adding a layer of royal sophistication to the ensemble.The Vibe: Radiantly traditional and high-impact; a quintessential choice for weddings, grand festive celebrations, or formal bridal occasions.Style Tip: Complete the regal look by pairing it with the matching red silk blouse and a statement emerald-beaded gold necklace as shown to highlight the signature NIDHUVASTRA aesthetic."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_1874ca7fd9b94196936b6ae7dce3e3ba~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Tissue Kutu Saree Premium Quality Gold and Red Combination  [CODE-012]"
+      },
+      {
+        "id": "01d5f4_0d4e7aa0875c4c869c7afc9104d6601d~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Tissue Kutu Saree Premium Quality Gold and Red Combination  [CODE-012]"
+      },
+      {
+        "id": "01d5f4_21f84c38bb2e4e38ba3f54c434295de7~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Tissue Kutu Saree Premium Quality Gold and Red Combination  [CODE-012]"
+      },
+      {
+        "id": "01d5f4_32052c5301ba4b3eac97f729961eb6e6~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Tissue Kutu Saree Premium Quality Gold and Red Combination  [CODE-012]"
+      },
+      {
+        "id": "01d5f4_68b94688159d49cb89b3def8d9353050~mv2.png",
+        "width": 2048,
+        "height": 1365,
+        "alt": "Tissue Kutu Saree Premium Quality Gold and Red Combination  [CODE-012]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "2b6adda7-82f4-5908-d8c6-5327c2e9d407",
+    "code": "089",
+    "codeNum": 89,
+    "orderIndex": 53,
+    "name": "Purple Colour Premium Soft Silk Saree (CODE-089)",
+    "slug": "purple-colour-premium-soft-silk-saree-code-089",
+    "price": 1999,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 54,
+    "categories": [
+      "kanjivaram-sarees",
+      "soft-silk-sarees"
+    ],
+    "productType": "Soft Silk",
+    "colors": [
+      "Red",
+      "Purple & Lavender",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This Premium Soft Silk Saree in a rich purple hue is a regal and dynamic masterpiece, making it a luxurious addition to the NIDHUVASTRA digital collection.",
+      "Majestic Amethyst Premium Soft Silk",
+      "The Palette: A deep, royal Purple that embodies luxury, festive grandeur, and classic South Indian elegance.The Craft: Premium Soft Silk, celebrated for its smooth, lightweight texture and an easy, fluid drape that retains a clean, polished structure.The Details: Beautifully adorned with small gold zari buttis delicately scattered across the body, paired with an ornate gold zari pallu featuring traditional geometric diamond patterns.The Vibe: Radiantly festive and commanding; an ideal choice for grand wedding receptions, evening gala events, or traditional family milestones.Style Tip: Highlight the heavy gold zari detailing by pairing it with a simple gold choker and minimal matching accessories as shown to maintain the signature NIDHUVASTRA look."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_89308495e5c64791ba376b2a0dab45d6~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Purple Colour Premium Soft Silk Saree (CODE-089)"
+      },
+      {
+        "id": "01d5f4_1beb80310ec541d9878cbe4a0a4463ee~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Purple Colour Premium Soft Silk Saree (CODE-089)"
+      },
+      {
+        "id": "01d5f4_7a80eb65e18a401da94257922a172cfd~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Purple Colour Premium Soft Silk Saree (CODE-089)"
+      },
+      {
+        "id": "01d5f4_af18fda7a37a495791665574125374f9~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Purple Colour Premium Soft Silk Saree (CODE-089)"
+      },
+      {
+        "id": "01d5f4_ec86de86355045a2a00a6b0745896b7b~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Purple Colour Premium Soft Silk Saree (CODE-089)"
+      },
+      {
+        "id": "01d5f4_390401eb83464af9bf835b9ff1a107b7~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Purple Colour Premium Soft Silk Saree (CODE-089)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "5d8a98f9-0ab0-b7e9-d622-244783880b0a",
+    "code": "047",
+    "codeNum": 47,
+    "orderIndex": 54,
+    "name": "Mysore crepe saree (Peach beige with mustard colour) CODE-047",
+    "slug": "mysore-crepe-saree-peach-beige-with-mustard-colour-code047",
+    "price": 1449,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 49,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Pink",
+      "Yellow & Mustard",
+      "Brown & Beige"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_1dd71ec9d4bf4e6f961010b16d0313dc~mv2.jpeg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Mysore crepe saree (Peach beige with mustard colour) CODE-047"
+      },
+      {
+        "id": "ee7c6c_988c2a4a3904451a8aceec944243c972~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore crepe saree (Peach beige with mustard colour) CODE-047"
+      },
+      {
+        "id": "ee7c6c_91ec4879b97e42e7b1c6c964339a953a~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore crepe saree (Peach beige with mustard colour) CODE-047"
+      },
+      {
+        "id": "ee7c6c_6f631a78ba144831997faf1778ab7173~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore crepe saree (Peach beige with mustard colour) CODE-047"
+      },
+      {
+        "id": "ee7c6c_6ace6fbbc05745c0bda2194c13e2b12c~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore crepe saree (Peach beige with mustard colour) CODE-047"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "0dbf4dad-320f-f0aa-fca6-5c4ca80c239d",
+    "code": "079",
+    "codeNum": 79,
+    "orderIndex": 55,
+    "name": "Mysore Semi Crepe Silk Saree (Code 079 )",
+    "slug": "code-079",
+    "price": 1699,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 66,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Black",
+      "Red",
+      "Pink",
+      "Gold & Silver"
+    ],
+    "description": [
+      "The black and pink combination is a timeless classic that always commands attention. Here is the description for your Mysore Semi Crepe Silk:",
+      "Majestic Mysore Semi Crepe Silk",
+      "The Palette: A bold and beautiful fusion of Jet Black and vibrant Bubblegum Pink.The Craft: Superior Mysore Semi Crepe Silk, celebrated for its buttery-soft texture, incredible lightweight feel, and perfect fall.The Details: Features striking horizontal gold zari stripes on the borders and sleeves, with delicate golden buttas scattered across the pink pleats for a touch of sparkle.The Vibe: Sophisticated and high-contrast; this piece transitions perfectly from a professional daytime event to a grand evening dinner.Style Tip: Pair with a black bindi and a statement gold necklace to accentuate the traditional zari work and the brand's signature aesthetic."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_0bf41d6d35c04c8bae3e748678b62a92~mv2.jpeg",
+        "width": 2449,
+        "height": 3262,
+        "alt": "Mysore Semi Crepe Silk Saree (Code 079 )"
+      },
+      {
+        "id": "ee7c6c_3095a8fa5f5641ecaa0e95e3b1c261bb~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe Silk Saree (Code 079 )"
+      },
+      {
+        "id": "ee7c6c_e862f896d59f4f1f8e811fb5dc2f7190~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe Silk Saree (Code 079 )"
+      },
+      {
+        "id": "ee7c6c_8103e64c184d4673b80ec6fd0d076b1f~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe Silk Saree (Code 079 )"
+      },
+      {
+        "id": "ee7c6c_8019c772904741409f15fa4c69e0f0bb~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe Silk Saree (Code 079 )"
+      },
+      {
+        "id": "ee7c6c_6477b8f3b9e94e998854126d57ec4074~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe Silk Saree (Code 079 )"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "55e15fda-4df8-5e0d-88f2-80ec3a01c277",
+    "code": "002",
+    "codeNum": 2,
+    "orderIndex": 56,
+    "name": "White and Purple fancy Ajrakh printed crepe silk saree [CODE-002]",
+    "slug": "white-and-red-soft-silk-saree-with-digital-printed-work-product-code-002",
+    "price": 1299,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "fancy-sarees",
+      "mysore-silk-sarees",
+      "soft-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "White",
+      "Purple & Lavender"
+    ],
+    "description": [
+      "Elevate your ethnic wardrobe with the exquisite White and purple Fancy Ajrakh Printed Crepe Silk Saree [Product Code: 002] from Nidhu Vastra. This saree seamlessly blends the timeless elegance of crepe silk with intricate ajrakh prints, embodying the essence of tradition and sophistication. Ideal for special occasions, its luxurious feel and vibrant colors make it a standout piece. At Nidhu Vastra, we pride ourselves on offering premium quality and unique designs, ensuring every thread wraps you in elegance."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_b56661375edc4d13bf28d06cf5af342e~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "White and Purple fancy Ajrakh printed crepe silk saree [CODE-002]"
+      },
+      {
+        "id": "01d5f4_a0f1b5eb2a7748c79ebd21a89af71e19~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "White and Purple fancy Ajrakh printed crepe silk saree [CODE-002]"
+      },
+      {
+        "id": "01d5f4_2a84c71b533c484bb2647b86838ee95e~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "White and Purple fancy Ajrakh printed crepe silk saree [CODE-002]"
+      },
+      {
+        "id": "01d5f4_b3b0b6004525475ca9ad911c5b4a5400~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "White and Purple fancy Ajrakh printed crepe silk saree [CODE-002]"
+      },
+      {
+        "id": "01d5f4_e9c16b027bed4614960b340854a82cb4~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "White and Purple fancy Ajrakh printed crepe silk saree [CODE-002]"
+      },
+      {
+        "id": "01d5f4_2991e56de8224399a508141973ac00ee~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "White and Purple fancy Ajrakh printed crepe silk saree [CODE-002]"
+      },
+      {
+        "id": "01d5f4_33c9dec8a0e9459d8a4a4c8f35987d8c~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "White and Purple fancy Ajrakh printed crepe silk saree [CODE-002]"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Madhu Reels 5.mov",
+        "posterId": "01d5f4_a9fff995724047bbbab61e7f3dcc5bbef002.jpg",
+        "mp4Url": "https://video.wixstatic.com/video/01d5f4_a9fff995724047bbbab61e7f3dcc5bbe/1080p/mp4/file.mp4"
+      }
+    ],
+    "options": []
+  },
+  {
+    "id": "0da42711-398c-25c3-6f51-0358eeb267d2",
+    "code": "088",
+    "codeNum": 88,
+    "orderIndex": 57,
+    "name": "Fancy Saree (CODE-088)",
+    "slug": "fancy-saree-code-088",
+    "price": 1049,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 47,
+    "categories": [
+      "fancy-sarees"
+    ],
+    "productType": "Fancy Designer",
+    "colors": [
+      "Black",
+      "White",
+      "Red",
+      "Pink",
+      "Green",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This contemporary floral fancy saree combines bold geometric stripes with romantic botanical art, making it a highly stylish and modern addition to the NIDHUVASTRA digital collection.",
+      "Midnight Rose Striped Fancy Saree",
+      "The Palette: A chic monochrome canvas of crisp White and bold Charcoal Black stripes, brought to life by oversized, vibrant Crimson Red and Fuchsia Pink floral clusters with sage green foliage.The Craft: A premium lightweight fancy fabric—likely a sheer organza or fine kota blend—offering a crisp, elegant drape and beautiful translucency that allows the design layers to pop.The Details: Features an ultra-modern scalloped border stitched with fine black thread, framing the giant watercolor-style floral prints that run beautifully across the pallu and shoulder drape.The Vibe: Strikingly fashionable and creative; an exceptional pick for daytime parties, high-tea events, elegant brunches, or contemporary festive gatherings.Style Tip: Balance the bold patterns by pairing it with a solid black statement blouse—like the puff-sleeve organza detailed blouse shown—and traditional silver jhumkas to achieve the signature NIDHUVASTRA look."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_095807ccfa864bd4a975ea2e0b40a30f~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Fancy Saree (CODE-088)"
+      },
+      {
+        "id": "01d5f4_eeb0c2b68c8141ca91799a3fe4c4620c~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Fancy Saree (CODE-088)"
+      },
+      {
+        "id": "01d5f4_f1109269bd4440628b0aea5ac85dcf4b~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Fancy Saree (CODE-088)"
+      },
+      {
+        "id": "01d5f4_18db414f163b4ffe9cf64bf0f3abf12a~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Fancy Saree (CODE-088)"
+      },
+      {
+        "id": "01d5f4_0403b14b35e441eabc59d54715271353~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Fancy Saree (CODE-088)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "f553a0c4-7a63-d939-2e88-3fb19052fded",
+    "code": "040",
+    "codeNum": 40,
+    "orderIndex": 58,
+    "name": "Mysore Semi Crepe  [CODE-040]",
+    "slug": "040",
+    "price": 1249,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 53,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_c5980bfdfabd4f0a8e0b0ec0367a848e~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Mysore Semi Crepe  [CODE-040]"
+      },
+      {
+        "id": "01d5f4_48eea5a1666b44faa63dba9ca4564d09~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe  [CODE-040]"
+      },
+      {
+        "id": "01d5f4_12006bec134d47348d10bd1f4c524127~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Mysore Semi Crepe  [CODE-040]"
+      },
+      {
+        "id": "01d5f4_bf1cc8e035874322b772501d9cc853ae~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe  [CODE-040]"
+      },
+      {
+        "id": "01d5f4_2de8d84a1ba54174b1fd794b076d2cc6~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Mysore Semi Crepe  [CODE-040]"
+      },
+      {
+        "id": "01d5f4_27483eda7a654cb581c8b0ab81a27093~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Mysore Semi Crepe  [CODE-040]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "735b06db-73fa-a4fd-06a5-953e3dc39f9b",
+    "code": "046",
+    "codeNum": 46,
+    "orderIndex": 59,
+    "name": "Premium Quality Crepe Silk Saree  Code046",
+    "slug": "046",
+    "price": 1999,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_a8395bf990f04edf85182f9ed459f62b~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Premium Quality Crepe Silk Saree  Code046"
+      },
+      {
+        "id": "01d5f4_e8185896fec146b8898709b9101c7fbe~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Premium Quality Crepe Silk Saree  Code046"
+      },
+      {
+        "id": "01d5f4_d9b34104b25c42e78129cbc51ab74641~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Premium Quality Crepe Silk Saree  Code046"
+      },
+      {
+        "id": "01d5f4_0dc866d618e44fa88b2bebd1344fd8cd~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Premium Quality Crepe Silk Saree  Code046"
+      },
+      {
+        "id": "01d5f4_8e2054e88059449caafd8e6dbbc7facc~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Premium Quality Crepe Silk Saree  Code046"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "8202808a-2830-8032-7de3-236a2bdd19fa",
+    "code": "013",
+    "codeNum": 13,
+    "orderIndex": 60,
+    "name": "Mysore Semi Crepe Silk Saree-Orange colour [CODE-013]",
+    "slug": "mysore-semi-crepe-silk-saree-orange-colour-code013",
+    "price": 1549,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 44,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Orange & Rust"
+    ],
+    "description": [
+      "At Nidhu Vastra, we proudly present the Mysore Semi Crepe Silk Saree in radiant orange, CODE013. This elegant masterpiece wraps you in timeless elegance, seamlessly merging tradition with modern sophistication. Every thread of this saree reflects our dedication to quality and heritage. Perfect for any festive occasion, it highlights the true essence of ethnic fashion. Embrace the luxury and tradition embodied in this exquisite piece, exclusively available at our online store."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_2f2c626d520a4eb4bd231652e1b6b9fa~mv2.jpg",
+        "width": 5275,
+        "height": 7420,
+        "alt": "Mysore Semi Crepe Silk Saree-Orange colour [CODE-013]"
+      },
+      {
+        "id": "01d5f4_0cd86c6d909843098b71f8b345e655e2~mv2.jpg",
+        "width": 5304,
+        "height": 7952,
+        "alt": "Mysore Semi Crepe Silk Saree-Orange colour [CODE-013]"
+      },
+      {
+        "id": "01d5f4_b9d33099a86b422e99e9082f55679dfb~mv2.jpg",
+        "width": 5124,
+        "height": 7532,
+        "alt": "Mysore Semi Crepe Silk Saree-Orange colour [CODE-013]"
+      },
+      {
+        "id": "01d5f4_2988b8f42caa4c08a30787df4e33c3c1~mv2.jpg",
+        "width": 5261,
+        "height": 7888,
+        "alt": "Mysore Semi Crepe Silk Saree-Orange colour [CODE-013]"
+      },
+      {
+        "id": "01d5f4_f339f15ba10f499c96d78d0de1bd721b~mv2.jpg",
+        "width": 5073,
+        "height": 7605,
+        "alt": "Mysore Semi Crepe Silk Saree-Orange colour [CODE-013]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "8a26d63e-f1b8-45a7-be66-b91aca81162c",
+    "code": "050",
+    "codeNum": 50,
+    "orderIndex": 61,
+    "name": "Mysore semi crêpe silk, white with a deep purple (royal purple) border Code 050",
+    "slug": "mysore-semi-crêpe-silk-white-with-a-deep-purple-royal-purple-border-code-050",
+    "price": 1699,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "White",
+      "Purple & Lavender"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_ed2cb219ff5f4f7eb01365f6509a2aa6~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe silk, white with a deep purple (royal purple) border Code 050"
+      },
+      {
+        "id": "ee7c6c_846a4c0a7df64a91b571d62025f0ebf6~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe silk, white with a deep purple (royal purple) border Code 050"
+      },
+      {
+        "id": "ee7c6c_84092c1b774a4c4e95dbd4695988723c~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe silk, white with a deep purple (royal purple) border Code 050"
+      },
+      {
+        "id": "ee7c6c_2f22a2c67cbe40d295f07bb7ab4f5761~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe silk, white with a deep purple (royal purple) border Code 050"
+      },
+      {
+        "id": "ee7c6c_b4d0bf8ff30147fab875e88ce68565c9~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe silk, white with a deep purple (royal purple) border Code 050"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "921f9a96-82d3-3a47-d494-e07c867022e5",
+    "code": "085",
+    "codeNum": 85,
+    "orderIndex": 62,
+    "name": "Blood Red blouse with white fancy saree (CODE-085)",
+    "slug": "blood-red-blouse-with-white-fancy-saree-code-085",
+    "price": 1099,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 19,
+    "categories": [
+      "fancy-sarees",
+      "georgette-sarees"
+    ],
+    "productType": "Fancy Designer",
+    "colors": [
+      "White",
+      "Red",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This Pearl White fancy saree with a Blood Red blouse is a striking and contemporary addition to the NIDHUVASTRA digital collection.",
+      "Crimson Scallop Pearl Fancy Saree",
+      "The Palette: A pristine Pearl White base that provides a luminous canvas for the bold Blood Red accents.The Craft: A premium \"fancy\" fabric—likely a lightweight organza or shimmer georgette—that offers a crisp yet fluid drape and a subtle metallic sheen.The Details: Features an elegant scalloped border embroidered in deep red thread and delicate floral buttas scattered across the body, creating a refined, minimalist aesthetic.The Vibe: Sophisticated, modern, and high-contrast; an ideal choice for reception parties, festive evening events, or contemporary celebrations.Style Tip: Highlight the vibrant contrast by pairing it with the matching Blood Red elbow-length sleeve blouse and a delicate gold-toned choker."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_86b136c190a1487dae3582269755d080~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Blood Red blouse with white fancy saree (CODE-085)"
+      },
+      {
+        "id": "01d5f4_a1150bf848ad4f7e8d39ccc2fef240b4~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Blood Red blouse with white fancy saree (CODE-085)"
+      },
+      {
+        "id": "01d5f4_e66d95b4e60c46fa817270ef3ddfbbde~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Blood Red blouse with white fancy saree (CODE-085)"
+      },
+      {
+        "id": "01d5f4_63c73ad98328401887eb53375c35d0ad~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Blood Red blouse with white fancy saree (CODE-085)"
+      },
+      {
+        "id": "01d5f4_58a1b947bd384448bf285814018a6bf1~mv2.jpg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Blood Red blouse with white fancy saree (CODE-085)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "1ae036bf-f163-fc30-e859-d79f3bf61202",
+    "code": "056",
+    "codeNum": 56,
+    "orderIndex": 63,
+    "name": "Mysore semi crepe silk saree (Rani pink with Sky blue) CODE-056",
+    "slug": "mysore-semi-crêpe-magenta-pink-with-a-sky-blue-border-056",
+    "price": 1499,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 10,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Pink",
+      "Blue"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_c64a69b1182e44958b1cfd7f967e46f3~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crepe silk saree (Rani pink with Sky blue) CODE-056"
+      },
+      {
+        "id": "ee7c6c_93ab45a2a0bd40a78eaffa98cbde64a0~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crepe silk saree (Rani pink with Sky blue) CODE-056"
+      },
+      {
+        "id": "ee7c6c_bcdea50516ac42939b8992c65f88f170~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crepe silk saree (Rani pink with Sky blue) CODE-056"
+      },
+      {
+        "id": "ee7c6c_a90eae66b7eb4490abae4a26fb235505~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crepe silk saree (Rani pink with Sky blue) CODE-056"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "2d77a2e8-c577-9fad-6250-6c0e1ec953e2",
+    "code": "094",
+    "codeNum": 94,
+    "orderIndex": 64,
+    "name": "Mysore Crepe Silk Saree - Elephant Border (CODE-094)",
+    "slug": "mysore-crepe-silk-saree-elephant-border-code-094",
+    "price": 1349,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 78,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_ff567ba2305f4da49ba84db4e8ddd509~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Crepe Silk Saree - Elephant Border (CODE-094)"
+      },
+      {
+        "id": "ee7c6c_276871c6c492497bb4c19066e23dbf2d~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Crepe Silk Saree - Elephant Border (CODE-094)"
+      },
+      {
+        "id": "ee7c6c_df4aa14b7808497bb8236e9142e291d7~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Crepe Silk Saree - Elephant Border (CODE-094)"
+      },
+      {
+        "id": "ee7c6c_79c8041effc0404cad3ffe819905fa90~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Crepe Silk Saree - Elephant Border (CODE-094)"
+      },
+      {
+        "id": "ee7c6c_d1ab081c34884cdd882a7daf9b60cb4d~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Crepe Silk Saree - Elephant Border (CODE-094)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "8c138a70-2e97-74f8-4c2e-1d461a8f4a4b",
+    "code": "034",
+    "codeNum": 34,
+    "orderIndex": 65,
+    "name": "Mysore Semi Crepe Silk Saree [CODE-034]",
+    "slug": "034",
+    "price": 1599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_ea4d00c48258481f99212a6bd17f6eaf~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Semi Crepe Silk Saree [CODE-034]"
+      },
+      {
+        "id": "01d5f4_8f996da86865453aa9121297ca4d7ae3~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Semi Crepe Silk Saree [CODE-034]"
+      },
+      {
+        "id": "01d5f4_34b36f9b3035463da75673b70073e54a~mv2.jpeg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe Silk Saree [CODE-034]"
+      },
+      {
+        "id": "01d5f4_93d52d42902f485db09dbc4ccc0168d6~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Semi Crepe Silk Saree [CODE-034]"
+      },
+      {
+        "id": "01d5f4_cad00b4778ff495d9633c1e456c9c3f9~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Semi Crepe Silk Saree [CODE-034]"
+      },
+      {
+        "id": "01d5f4_1f4b841682ba4b83ac85081c2fedaec9~mv2.jpeg",
+        "width": 2216,
+        "height": 3565,
+        "alt": "Mysore Semi Crepe Silk Saree [CODE-034]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "fcd42a6c-a83f-5023-0988-cf19622e8aba",
+    "code": "021",
+    "codeNum": 21,
+    "orderIndex": 66,
+    "name": "Royal Blue Mysore Semi Crepe Silk Saree[CODE-021]",
+    "slug": "royal-blue-mysore-semi-crepe-silk-saree-product-code-021",
+    "price": 1599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 54,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Blue"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_eede891e0b934430b63c8d55977e653a~mv2.jpeg",
+        "width": 2732,
+        "height": 4096,
+        "alt": "Royal Blue Mysore Semi Crepe Silk Saree[CODE-021]"
+      },
+      {
+        "id": "01d5f4_e4b985bff9bd46adb9f4b82631a4bf4b~mv2.jpeg",
+        "width": 2732,
+        "height": 4096,
+        "alt": "Royal Blue Mysore Semi Crepe Silk Saree[CODE-021]"
+      },
+      {
+        "id": "01d5f4_4779e0cdfb5549c49d05fa4a1744fcc8~mv2.jpeg",
+        "width": 2732,
+        "height": 4096,
+        "alt": "Royal Blue Mysore Semi Crepe Silk Saree[CODE-021]"
+      },
+      {
+        "id": "01d5f4_24da545d360f45fe8ab47bc70fd8f50f~mv2.jpeg",
+        "width": 2732,
+        "height": 4096,
+        "alt": "Royal Blue Mysore Semi Crepe Silk Saree[CODE-021]"
+      },
+      {
+        "id": "01d5f4_3ed29522082f486cbbbb67e204ea192e~mv2.jpeg",
+        "width": 2732,
+        "height": 4096,
+        "alt": "Royal Blue Mysore Semi Crepe Silk Saree[CODE-021]"
+      },
+      {
+        "id": "01d5f4_ad11a71f07d04125adf99c9ef9684d53~mv2.jpeg",
+        "width": 2732,
+        "height": 4096,
+        "alt": "Royal Blue Mysore Semi Crepe Silk Saree[CODE-021]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "03750d19-fc52-91a3-47d1-e9d7c7db1cd3",
+    "code": "045",
+    "codeNum": 45,
+    "orderIndex": 67,
+    "name": "Tassar silk saree Colour-Baby Pink ( Code045)",
+    "slug": "mysore-semi-crêpe",
+    "price": 1149,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 35,
+    "categories": [
+      "soft-silk-sarees"
+    ],
+    "productType": "Tassar Silk",
+    "colors": [
+      "Pink"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_ec52f0a934694eb4a6bbc9973b98d2e9~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Tassar silk saree Colour-Baby Pink ( Code045)"
+      },
+      {
+        "id": "01d5f4_7fec91a32cd74323983c39a5dc390221~mv2.jpeg",
+        "width": 3000,
+        "height": 4000,
+        "alt": "Tassar silk saree Colour-Baby Pink ( Code045)"
+      },
+      {
+        "id": "01d5f4_f1926a1a53fb4a8b825d8851994700af~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Tassar silk saree Colour-Baby Pink ( Code045)"
+      },
+      {
+        "id": "01d5f4_e2bae607967a4deb953fd60182a6c44f~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Tassar silk saree Colour-Baby Pink ( Code045)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "f495f181-5d64-3fb7-a5f2-fb33e745b266",
+    "code": "020",
+    "codeNum": 20,
+    "orderIndex": 68,
+    "name": "Mysore Semi Crepe Silk Saree [CODE-020]",
+    "slug": "mysore-semi-crepe-silk-saree-code-020",
+    "price": 1699,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 75,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_761caa3ad5e544958be9e12feea50216~mv2.jpeg",
+        "width": 2800,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe Silk Saree [CODE-020]"
+      },
+      {
+        "id": "01d5f4_d3eea1b0200944f68690b57cd0cbaee0~mv2.jpeg",
+        "width": 4096,
+        "height": 2732,
+        "alt": "Mysore Semi Crepe Silk Saree [CODE-020]"
+      },
+      {
+        "id": "01d5f4_45cbfb6296bd4310b79711893cde7bc5~mv2.jpeg",
+        "width": 2863,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe Silk Saree [CODE-020]"
+      },
+      {
+        "id": "01d5f4_a55db2ecddf243c0a3e3a73af4ced119~mv2.jpeg",
+        "width": 2925,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe Silk Saree [CODE-020]"
+      },
+      {
+        "id": "01d5f4_ebffd4fd98b342368badbcd7b3e36059~mv2.jpeg",
+        "width": 2716,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe Silk Saree [CODE-020]"
+      },
+      {
+        "id": "01d5f4_7c70dbe5bc7b4d23987eccd2e555b58b~mv2.jpeg",
+        "width": 2732,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe Silk Saree [CODE-020]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "fff90e83-7b07-0ef5-8a7f-c7bc6282d85a",
+    "code": "086",
+    "codeNum": 86,
+    "orderIndex": 69,
+    "name": "Fancy Saree (CODE-086)",
+    "slug": "fancy-saree-code-086-1",
+    "price": 1099,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 21,
+    "categories": [
+      "fancy-sarees",
+      "georgette-sarees"
+    ],
+    "productType": "Fancy Designer",
+    "colors": [
+      "White",
+      "Red",
+      "Pink",
+      "Blue",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This georgette ombre saree—referred to as the Fancy Saree—features a beautifully fluid, tri-color gradient effect that makes it a perfect contemporary piece for the NIDHUVASTRA digital collection.",
+      "Pastel Prism Georgette Saree (Fancy Saree)",
+      "The Palette: A whimsical and smooth ombre transition from a soft Orchid Pink at the top, fading into a crisp Off-White mid-section, and settling into a vibrant Sky Blue border and pallu.The Craft: Premium lightweight faux georgette, celebrated for its airy feel, easy maintenance, and an incredibly fluid drape that moves beautifully with every step.The Details: Dotted with delicate, shimmering mirror-work or sequin buttis scattered across the body, finished with a classic scalloped stitch along the border for a clean, playful look.The Vibe: Youthful, refreshing, and chic; an ideal selection for daytime parties, festive get-togethers, or pre-wedding celebrations.Style Tip: Pair it with the matching sleeveless pink blouse and minimal silver jewelry as shown in the outdoor shoot to let the vibrant color transition stand out."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_a8710863ecc44b4e9ea4d9f73b432bf3~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Fancy Saree (CODE-086)"
+      },
+      {
+        "id": "01d5f4_d1571a1f3fba4e58a6eddd6629e61c81~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Fancy Saree (CODE-086)"
+      },
+      {
+        "id": "01d5f4_552a476426ad4edcbfa609f49d641e64~mv2.jpg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Fancy Saree (CODE-086)"
+      },
+      {
+        "id": "01d5f4_f493e139cfe14256b6d8f88e10004f9d~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Fancy Saree (CODE-086)"
+      },
+      {
+        "id": "01d5f4_8c0f975fabde46879caf2c29b332cbb3~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Fancy Saree (CODE-086)"
+      },
+      {
+        "id": "01d5f4_31a1eb8ebbf44204b35f571fc913ebcf~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Fancy Saree (CODE-086)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "a329cbf9-0fce-fc28-33da-e32ce292c226",
+    "code": "032",
+    "codeNum": 32,
+    "orderIndex": 70,
+    "name": "Chocolate Brown Crepe Silk Saree With Lotus Border [CODE-032]",
+    "slug": "chocolate-brown-crepe-silk-saree-with-lotus-border-code032",
+    "price": 1299,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 81,
+    "categories": [
+      "mysore-semi-crepe-silk",
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Brown & Beige"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_29643bfbda5b406087f3e09e2a4ee636~mv2.jpeg",
+        "width": 3000,
+        "height": 4000,
+        "alt": "Chocolate Brown Crepe Silk Saree With Lotus Border [CODE-032]"
+      },
+      {
+        "id": "01d5f4_bafe40500f614e11bca5b7c2733ffcb8~mv2.jpeg",
+        "width": 3000,
+        "height": 4000,
+        "alt": "Chocolate Brown Crepe Silk Saree With Lotus Border [CODE-032]"
+      },
+      {
+        "id": "01d5f4_6a83c550e77e4760b9fd1a20fbe43280~mv2.jpeg",
+        "width": 3000,
+        "height": 4000,
+        "alt": "Chocolate Brown Crepe Silk Saree With Lotus Border [CODE-032]"
+      },
+      {
+        "id": "01d5f4_e26dda148ccb4335af07e5be2ae694f9~mv2.jpeg",
+        "width": 3000,
+        "height": 4000,
+        "alt": "Chocolate Brown Crepe Silk Saree With Lotus Border [CODE-032]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "94b009be-d69e-5d73-18b8-57551f4493ff",
+    "code": "062",
+    "codeNum": 62,
+    "orderIndex": 71,
+    "name": "Premium 2D Crepe Silk Saree (CODE-062)",
+    "slug": "premium-2d-crepe-silk-saree",
+    "price": 1650,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 74,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_b14b54b5ae444dfc9d75b238fbf198fc~mv2.jpeg",
+        "width": 6194,
+        "height": 9291,
+        "alt": "Premium 2D Crepe Silk Saree (CODE-062)"
+      },
+      {
+        "id": "01d5f4_c41ab24ee1f14f939550f270b281897a~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Premium 2D Crepe Silk Saree (CODE-062)"
+      },
+      {
+        "id": "01d5f4_0623b3ec90d6471f80a97e5ad75d55a0~mv2.jpeg",
+        "width": 6195,
+        "height": 9293,
+        "alt": "Premium 2D Crepe Silk Saree (CODE-062)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "9def451c-b39c-a127-7fd9-edc53f72dcc5",
+    "code": "081",
+    "codeNum": 81,
+    "orderIndex": 72,
+    "name": "Black Kalamkari Print Saree (CODE-081)",
+    "slug": "black-kalamkari-print-saree-code-081",
+    "price": 1349,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 75,
+    "categories": [
+      "fancy-sarees"
+    ],
+    "productType": "Fancy Designer",
+    "colors": [
+      "Black",
+      "White",
+      "Red",
+      "Green",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This is a beautifully detailed piece—it has a very artistic, \"intellectual\" charm to it. Here is the catalog description for your website:",
+      "Midnight Onyx Kalamkari Print Saree",
+      "The Palette: A classic Midnight Black base enriched with earthy tones of sage green, cream, and muted gold.The Craft: Lightweight and breathable fabric featuring intricate all-over Kalamkari-inspired floral and vine patterns.The Details: Bold, structured borders with traditional motif panels and a sleek, dark-toned selvage that defines the silhouette.The Vibe: Artistic, poised, and versatile; an ideal choice for office events, gallery openings, or elegant daytime gatherings.Style Tip: Pair with silver oxidised jewelry and a bindi to lean into the traditional aesthetic, or a black boat-neck blouse for a modern, minimalist look."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_ef9453a9e3954d01a9609504826fa51a~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Black Kalamkari Print Saree (CODE-081)"
+      },
+      {
+        "id": "01d5f4_70e946d5af7844d8b7e5b76cc4695521~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Black Kalamkari Print Saree (CODE-081)"
+      },
+      {
+        "id": "01d5f4_22967f17fd8b4a4db097fa2b44666b40~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Black Kalamkari Print Saree (CODE-081)"
+      },
+      {
+        "id": "01d5f4_e1a96bb55856444b8af70de0e2a1626b~mv2.jpg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Black Kalamkari Print Saree (CODE-081)"
+      },
+      {
+        "id": "01d5f4_0f3b9888bffd45deb08e44d67a5e52ba~mv2.jpg",
+        "width": 1164,
+        "height": 1280,
+        "alt": "Black Kalamkari Print Saree (CODE-081)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "d5fc2fed-035a-9dc2-6ca9-038d1d477dc4",
+    "code": "048",
+    "codeNum": 48,
+    "orderIndex": 73,
+    "name": "Royal Blue Silk Saree (CODE-048)",
+    "slug": "royal-blue-silk-saree-code-48",
+    "price": 1750,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "fancy-sarees"
+    ],
+    "productType": "Silk",
+    "colors": [
+      "Blue"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_e5c09bd6711b445bb084505345e24b4f~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Royal Blue Silk Saree (CODE-048)"
+      },
+      {
+        "id": "01d5f4_a8640c1e3f3e4aceaa9eb1e34463c05f~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Royal Blue Silk Saree (CODE-048)"
+      },
+      {
+        "id": "01d5f4_937d36af0e67446b8d24927792003bca~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Royal Blue Silk Saree (CODE-048)"
+      },
+      {
+        "id": "01d5f4_e507cceaafa24c90bc1c93e68e2a9435~mv2.jpeg",
+        "width": 3488,
+        "height": 2624,
+        "alt": "Royal Blue Silk Saree (CODE-048)"
+      },
+      {
+        "id": "01d5f4_61418d6fa2e044e7b511dfc3ba36a993~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Royal Blue Silk Saree (CODE-048)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "cf8e6127-59f9-fcb1-7931-f61b1c417234",
+    "code": "063",
+    "codeNum": 63,
+    "orderIndex": 74,
+    "name": "Cotton Saree (CODE-063)",
+    "slug": "cotton-saree",
+    "price": 1550,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 34,
+    "categories": [
+      "cotton-sarees"
+    ],
+    "productType": "Cotton",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_7587463867fe4f4c9272e873f7c985fd~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Cotton Saree (CODE-063)"
+      },
+      {
+        "id": "01d5f4_be49e8df259749aea1b20e4d65eae4c4~mv2.jpeg",
+        "width": 4160,
+        "height": 6240,
+        "alt": "Cotton Saree (CODE-063)"
+      },
+      {
+        "id": "01d5f4_1abada6d5f5c474d9b4881fce020ffaf~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Cotton Saree (CODE-063)"
+      },
+      {
+        "id": "01d5f4_7ea4947e977349b5acd13576e3168dcc~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Cotton Saree (CODE-063)"
+      },
+      {
+        "id": "01d5f4_b2150759345b4f31bb0ca52cebe8addd~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Cotton Saree (CODE-063)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "245dad52-d73c-e4c1-c0d2-2f94f940a696",
+    "code": "009",
+    "codeNum": 9,
+    "orderIndex": 75,
+    "name": "Bottle Green *Mysore Semi Crepe Silk Saree* [CODE-009]",
+    "slug": "green",
+    "price": 1599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 195,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Green"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_9b58197507f8446e9ae48575338be0fa~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Bottle Green *Mysore Semi Crepe Silk Saree* [CODE-009]"
+      },
+      {
+        "id": "01d5f4_bdd22563a6e74032b06058ce333ba2bb~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Bottle Green *Mysore Semi Crepe Silk Saree* [CODE-009]"
+      },
+      {
+        "id": "01d5f4_7e373d896240435e8e881ac76e883ca9~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Bottle Green *Mysore Semi Crepe Silk Saree* [CODE-009]"
+      },
+      {
+        "id": "01d5f4_39cdf6b5c61a4d8d97d2aff7c2f454c7~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Bottle Green *Mysore Semi Crepe Silk Saree* [CODE-009]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "a45559c1-c1cd-e882-29a6-8381bf33b4c8",
+    "code": "054",
+    "codeNum": 54,
+    "orderIndex": 76,
+    "name": "Mysore semi crêpe Pista green(Code054)",
+    "slug": "code054",
+    "price": 1249,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Green"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_91e4914b4a07470da39c1cffa925d25e~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe Pista green(Code054)"
+      },
+      {
+        "id": "ee7c6c_3bbaddd964894c0a87e32cfbc29577d5~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe Pista green(Code054)"
+      },
+      {
+        "id": "ee7c6c_aa20225e980d47909e71e9cbe304023a~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Mysore semi crêpe Pista green(Code054)"
+      },
+      {
+        "id": "ee7c6c_c5dcca1fe26040468e06bec344371b18~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe Pista green(Code054)"
+      },
+      {
+        "id": "ee7c6c_0f4a3236cdfd457f9b9b70eee798e923~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore semi crêpe Pista green(Code054)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "d0c43800-7d2a-318e-c424-6f5db6b56251",
+    "code": "033",
+    "codeNum": 33,
+    "orderIndex": 77,
+    "name": "Mysore Semi Crepe Saree -Light green with dark purple colour [CODE-033]",
+    "slug": "mysore-semi-crepe-saree-light-green-with-dark-purple-colour-code032",
+    "price": 1699,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 5,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Green",
+      "Purple & Lavender"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_673f7f5c068f423d9d984e024e26738f~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Semi Crepe Saree -Light green with dark purple colour [CODE-033]"
+      },
+      {
+        "id": "01d5f4_8b583e08f217481c876d55bc4fbe1763~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Semi Crepe Saree -Light green with dark purple colour [CODE-033]"
+      },
+      {
+        "id": "01d5f4_a3d5758a1cd248688e5d78521a3e8522~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Semi Crepe Saree -Light green with dark purple colour [CODE-033]"
+      },
+      {
+        "id": "01d5f4_9aa7b42746ed4617a7b11c8b5e2cd4a9~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Semi Crepe Saree -Light green with dark purple colour [CODE-033]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "e121df97-3473-c2c6-2336-f55b18a44bfe",
+    "code": "090",
+    "codeNum": 90,
+    "orderIndex": 78,
+    "name": "Fancy Saree (CODE-090)",
+    "slug": "090",
+    "price": 1349,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 74,
+    "categories": [
+      "fancy-sarees"
+    ],
+    "productType": "Fancy Designer",
+    "colors": [
+      "Red",
+      "Pink",
+      "Orange & Rust",
+      "Brown & Beige",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This contemporary charcoal floral fancy saree features large, artistic abstract motifs, making it a highly chic and sophisticated addition to the NIDHUVASTRA storefront.",
+      "Charcoal Blossom Organza Fancy Saree",
+      "The Palette: A modern, muted canvas of textured Charcoal Gray, brought to life by oversized abstract floral petals in shades of dusty rose, rustic orange, and deep mauve.The Craft: A premium lightweight fancy fabric—likely a sheer organza or fine kota blend—offering a subtle translucent texture and a crisp, airy drape that holds its shape gracefully.The Details: Features delicately outlined floral patterns adorned with fine shimmer detailing and micro-sequin accents within the petals, framed beautifully by a solid beige-toned piping along the border.The Vibe: Effortlessly elegant, artistic, and contemporary; an exceptional choice for rooftop parties, evening high-tea, or modern social gatherings.Style Tip: Highlight the modern aesthetic by pairing it with a pastel pink halter-neck or sleeveless blouse, a sleek wristwatch, and silver statement earrings as styled."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_52942338a57b44d2885e131d6ba0bb54~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Fancy Saree (CODE-090)"
+      },
+      {
+        "id": "ee7c6c_c682bff4fa35430d87a55de1d5407afa~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Fancy Saree (CODE-090)"
+      },
+      {
+        "id": "ee7c6c_c824be7c6ca141579d6ba6010bc7a9ce~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Fancy Saree (CODE-090)"
+      },
+      {
+        "id": "ee7c6c_73f90e005d55414d876982dd4d4ecc02~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Fancy Saree (CODE-090)"
+      },
+      {
+        "id": "ee7c6c_2b1e9e32084c40da93c434e62ec3f1e1~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Fancy Saree (CODE-090)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "38b616ce-fe10-8b6a-af92-f5b27eacc8b2",
+    "code": "017",
+    "codeNum": 17,
+    "orderIndex": 79,
+    "name": "Semi Crepe Silk Saree -Pista Green [CODE-017]",
+    "slug": "semi-crepe-silk-saree-pista-green-code-017",
+    "price": 1555,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Green"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_79bb3208077f4ac291218f8338fca788~mv2.jpg",
+        "width": 5251,
+        "height": 7872,
+        "alt": "Semi Crepe Silk Saree -Pista Green [CODE-017]"
+      },
+      {
+        "id": "01d5f4_87e75c44ebd847998e604daa04165b34~mv2.jpg",
+        "width": 5188,
+        "height": 7312,
+        "alt": "Semi Crepe Silk Saree -Pista Green [CODE-017]"
+      },
+      {
+        "id": "01d5f4_f8f03292350447ec8497bb0cade98830~mv2.jpg",
+        "width": 5284,
+        "height": 7702,
+        "alt": "Semi Crepe Silk Saree -Pista Green [CODE-017]"
+      },
+      {
+        "id": "01d5f4_cba6636ed9a543818be7973a1597de88~mv2.jpg",
+        "width": 5120,
+        "height": 7431,
+        "alt": "Semi Crepe Silk Saree -Pista Green [CODE-017]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "950b2bab-4341-6550-a572-fab87c698c78",
+    "code": "076",
+    "codeNum": 76,
+    "orderIndex": 80,
+    "name": "Mysore Crepe Silk Saree (CODE-076)",
+    "slug": "mysore-crepe-silk-saree-code-076",
+    "price": 1699,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Red",
+      "Green",
+      "Brown & Beige",
+      "Gold & Silver"
+    ],
+    "description": [
+      "This Mysore Crepe Silk saree features a vibrant, nature-inspired palette. Here is the description for your NIDHUVASTRA catalog:",
+      "Olive Enchantment Mysore Crepe Silk",
+      "The Palette: A refreshing Olive Green base contrasted with a sophisticated Cocoa Brown border and pallu.The Craft: Authentic Mysore Crepe Silk, prized for its exceptionally smooth texture, graceful drape, and lightweight feel.The Details: Intricate silver-toned vertical stripes and floral buttas on the body, paired with a broad, ornate zari border featuring traditional motifs.The Vibe: Earthy yet opulent; an excellent choice for festive luncheons, cultural events, or elegant daytime celebrations.Style Tip: Match with the coordinated cocoa brown blouse as shown to emphasize the rich contrast and the premium craftsmanship of this collection."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_2cfb9788569e404c8b5020876b5077ed~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Mysore Crepe Silk Saree (CODE-076)"
+      },
+      {
+        "id": "01d5f4_efccdcf6c6b34f0ba4dfa44752a954e2~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Mysore Crepe Silk Saree (CODE-076)"
+      },
+      {
+        "id": "01d5f4_6e185ae343c34967aecf114074ff44b9~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Mysore Crepe Silk Saree (CODE-076)"
+      },
+      {
+        "id": "01d5f4_1abfdfc24c5d4fbc8fa0c01bd3e8771e~mv2.jpg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Crepe Silk Saree (CODE-076)"
+      },
+      {
+        "id": "01d5f4_85c5812c9dd04e41aef165e9cc6f8b98~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Mysore Crepe Silk Saree (CODE-076)"
+      },
+      {
+        "id": "01d5f4_40792942e3cb4d939d577c6613e97e6c~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Mysore Crepe Silk Saree (CODE-076)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "aeb77fa7-c20f-274f-fe62-404565c3a751",
+    "code": "075",
+    "codeNum": 75,
+    "orderIndex": 81,
+    "name": "Red saree with contrast blouse (CODE-075)",
+    "slug": "red-saree-with-contrast-blouse-code-075",
+    "price": 1399,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "fancy-sarees"
+    ],
+    "productType": "Fancy Designer",
+    "colors": [
+      "Red"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_ec94e09b7bfe4751ae8b76e43641490e~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Red saree with contrast blouse (CODE-075)"
+      },
+      {
+        "id": "01d5f4_fd9f97b24e614da3b84db257f94c2045~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Red saree with contrast blouse (CODE-075)"
+      },
+      {
+        "id": "01d5f4_81201fe7b44e43dbba37cfd8362163e7~mv2.jpg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Red saree with contrast blouse (CODE-075)"
+      },
+      {
+        "id": "01d5f4_f62384015bb94eea987b4a941a4b0874~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Red saree with contrast blouse (CODE-075)"
+      },
+      {
+        "id": "01d5f4_74e5ad952c7043939c3256dd226c7ba4~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Red saree with contrast blouse (CODE-075)"
+      },
+      {
+        "id": "01d5f4_7d96aa1544f94859b3dd5d4b7dfcdec4~mv2.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "Red saree with contrast blouse (CODE-075)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "0196a66f-3add-d046-f90e-5e81c414b14b",
+    "code": "015",
+    "codeNum": 15,
+    "orderIndex": 82,
+    "name": "Premium Maroon Banarasi Silk Saree [CODE-015]",
+    "slug": "premium-maroon-banarasi-silk-saree-015",
+    "price": 1999,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 2,
+    "categories": [
+      "banarasi-sarees"
+    ],
+    "productType": "Banarasi Silk",
+    "colors": [
+      "Red"
+    ],
+    "description": [
+      "Elevate your summer wardrobe with the Premium Maroon Banarasi Silk Saree from Nidhu Vastra, crafted to perfection with gala weaving for an exquisite touch. Our saree embodies timeless elegance, perfect for any special occasion, allowing you to embrace tradition with every thread. Designed for the discerning woman who values quality and heritage, this saree offers unparalleled comfort and style, making it a must-have addition to your ethnic wear collection. Wrap yourself in luxury and grace with Nidhu Vastra's sophisticated selection."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_dc61c006ce1743f39623a96667b6ca43~mv2.jpg",
+        "width": 1080,
+        "height": 1920,
+        "alt": "Premium Maroon Banarasi Silk Saree [CODE-015]"
+      },
+      {
+        "id": "01d5f4_63c46dd4629145aca5439546daedec45~mv2.jpg",
+        "width": 1080,
+        "height": 1920,
+        "alt": "Premium Maroon Banarasi Silk Saree [CODE-015]"
+      },
+      {
+        "id": "01d5f4_9ea99a7d638f4de7af9936c05630235f~mv2.jpg",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Premium Maroon Banarasi Silk Saree [CODE-015]"
+      },
+      {
+        "id": "01d5f4_1af7fdb4b52641f994d14ccba7ea2420~mv2.jpg",
+        "width": 1080,
+        "height": 1920,
+        "alt": "Premium Maroon Banarasi Silk Saree [CODE-015]"
+      },
+      {
+        "id": "01d5f4_f3b6ffbb8cf144c08a43368d42dc6580~mv2.jpg",
+        "width": 1080,
+        "height": 1920,
+        "alt": "Premium Maroon Banarasi Silk Saree [CODE-015]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "6f112350-a940-708c-ea32-bd9931c86c91",
+    "code": "004",
+    "codeNum": 4,
+    "orderIndex": 83,
+    "name": "Satin Banarasi Saree [CODE-004",
+    "slug": "satin-banarasi-saree-product-code-004",
+    "price": 1599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": false,
+    "stockQuantity": 0,
+    "categories": [
+      "banarasi-sarees",
+      "satin-sarees"
+    ],
+    "productType": "Banarasi Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_b5baf9edfeb34f9a8e948718c60aeda6~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Satin Banarasi Saree [CODE-004"
+      },
+      {
+        "id": "01d5f4_8353a1de369547fda9391e845065f713~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Satin Banarasi Saree [CODE-004"
+      },
+      {
+        "id": "01d5f4_fa9cbdb23aca46e98468c7bf55118659~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Satin Banarasi Saree [CODE-004"
+      },
+      {
+        "id": "01d5f4_e38a09b831844ce1a4d0249ab9f3c1ca~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Satin Banarasi Saree [CODE-004"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Madhu Green Saree Reels.mov",
+        "posterId": "01d5f4_101f6052af6a40d6b531f53113df82adf002.jpg",
+        "mp4Url": "https://video.wixstatic.com/video/01d5f4_101f6052af6a40d6b531f53113df82ad/1080p/mp4/file.mp4"
+      }
+    ],
+    "options": []
+  },
+  {
+    "id": "5b0784b5-f21f-f0c7-b8c0-0657a6c1185c",
+    "code": "074",
+    "codeNum": 74,
+    "orderIndex": 84,
+    "name": "White swan print with red floral printed blouse (CODE-074)",
+    "slug": "white-swan-print-with-red-floral-printed-blouse-code-074",
+    "price": 1599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 43,
+    "categories": [
+      "fancy-sarees"
+    ],
+    "productType": "Fancy Designer",
+    "colors": [
+      "White",
+      "Red"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_0716bc6def114b28bd4f861fbfd26640~mv2.jpeg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "White swan print with red floral printed blouse (CODE-074)"
+      },
+      {
+        "id": "ee7c6c_d6fb0b40dcf94346924855005c15a63d~mv2.jpeg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "White swan print with red floral printed blouse (CODE-074)"
+      },
+      {
+        "id": "ee7c6c_c2da8d46a10444a98b4db2092d65f2f4~mv2.jpeg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "White swan print with red floral printed blouse (CODE-074)"
+      },
+      {
+        "id": "ee7c6c_7af1ca18ed6342a795637c34d584f39e~mv2.jpeg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "White swan print with red floral printed blouse (CODE-074)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "3ec43acf-b2f8-c188-f7fe-24f423444ecb",
+    "code": "027",
+    "codeNum": 27,
+    "orderIndex": 85,
+    "name": "Black Cotton Saree [CODE-027]",
+    "slug": "027",
+    "price": 1199,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 55,
+    "categories": [
+      "cotton-sarees"
+    ],
+    "productType": "Cotton",
+    "colors": [
+      "Black"
+    ],
+    "description": [
+      "Experience timeless elegance with our Black Cotton Saree (CODE)027, exclusively at Nidhu Vastra. This beautiful saree, interwoven with tradition in every thread, is a masterpiece of ethnic fashion. Perfect for any occasion, its rich black hue offers a sophisticated allure while ensuring comfort and style. Wrap yourself in this classic piece that reflects our dedication to craftsmanship and quality. Embrace tradition with Nidhu Vastra and let every thread tell a story."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_106b7461ce5f42fa8d665cd91b3c6891~mv2.jpeg",
+        "width": 2810,
+        "height": 4096,
+        "alt": "Black Cotton Saree [CODE-027]"
+      },
+      {
+        "id": "01d5f4_8b2b85ee53824a6dbf756f6be80d26c7~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Black Cotton Saree [CODE-027]"
+      },
+      {
+        "id": "01d5f4_f83c5fa49a174fbcb008f356f27bdfaf~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Black Cotton Saree [CODE-027]"
+      },
+      {
+        "id": "01d5f4_1531eb87e26c439b8a5812c40f109a82~mv2.jpeg",
+        "width": 2770,
+        "height": 4096,
+        "alt": "Black Cotton Saree [CODE-027]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "9f17a675-3a6c-2134-5dd5-f4b696948051",
+    "code": "072",
+    "codeNum": 72,
+    "orderIndex": 86,
+    "name": "White Cotton Saree with Contrast Printed Blouse (CODE-072)",
+    "slug": "white-cotton-saree-with-contrast-printed-blouse-code072",
+    "price": 1299,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 31,
+    "categories": [
+      "cotton-sarees"
+    ],
+    "productType": "Cotton",
+    "colors": [
+      "White"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_eefa81420d244dd88ceb8cc88a5d3544~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "White Cotton Saree with Contrast Printed Blouse (CODE-072)"
+      },
+      {
+        "id": "ee7c6c_1d352637cd3f4ab7b16185bd055adf7a~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "White Cotton Saree with Contrast Printed Blouse (CODE-072)"
+      },
+      {
+        "id": "ee7c6c_70c72f0b73804d368cb245196a17398b~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "White Cotton Saree with Contrast Printed Blouse (CODE-072)"
+      },
+      {
+        "id": "ee7c6c_d5a631ab5fc14711b90759bfcef3ab6d~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "White Cotton Saree with Contrast Printed Blouse (CODE-072)"
+      },
+      {
+        "id": "ee7c6c_5a79cce15ba94daf9181f2a2856912e5~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "White Cotton Saree with Contrast Printed Blouse (CODE-072)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "4b256245-7a84-6c19-8ad8-c8757def29d2",
+    "code": "029",
+    "codeNum": 29,
+    "orderIndex": 87,
+    "name": "Mysore Semi Crepe (Mustard With Black Colour [CODE-029]",
+    "slug": "mysore-semi-crepe-mustard-with-black-colour-code-029",
+    "price": 1499,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 18,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Black",
+      "Yellow & Mustard"
+    ],
+    "description": [
+      "Discover timeless elegance with Nidhu Vastra’s Mysore Semi Crepe in Mustard with Black (CODE 029). Exquisitely crafted to embody tradition with every thread, this stunning piece offers a perfect balance between heritage and contemporary style. Its rich mustard hue combined with striking black accents makes it an ideal choice for any occasion. Drape yourself in this luxurious fabric and let your attire speak of unmatched sophistication. Indulge in the tradition and elegance that Nidhu Vastra proudly offers through each meticulously designed piece."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_9413c2e130314c5a830ae6b1d2ccf522~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe (Mustard With Black Colour [CODE-029]"
+      },
+      {
+        "id": "01d5f4_4e45e6c080c74b5ea11ca84727b96a30~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe (Mustard With Black Colour [CODE-029]"
+      },
+      {
+        "id": "01d5f4_d3c880a951944811ac8e6272c9c69e79~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe (Mustard With Black Colour [CODE-029]"
+      },
+      {
+        "id": "01d5f4_db984061d1004095ae4e229c10c37fde~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe (Mustard With Black Colour [CODE-029]"
+      },
+      {
+        "id": "01d5f4_a3fd44e3508c4ba885a0c65f693f707b~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe (Mustard With Black Colour [CODE-029]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "8183ca1f-7c5a-a62d-4be6-71754f5d835b",
+    "code": "073",
+    "codeNum": 73,
+    "orderIndex": 88,
+    "name": "Orange Cotton Saree (CODE-073)",
+    "slug": "orange-cotton-saree-code-073",
+    "price": 1159,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 46,
+    "categories": [
+      "cotton-sarees"
+    ],
+    "productType": "Cotton",
+    "colors": [
+      "Orange & Rust"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_65e04596fe4f41f6bbf45d656f51aeca~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Orange Cotton Saree (CODE-073)"
+      },
+      {
+        "id": "01d5f4_ecb90948a9a04596b4befb4a635905b1~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Orange Cotton Saree (CODE-073)"
+      },
+      {
+        "id": "01d5f4_5f8fd04e42fa467a9e2580cc48129076~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Orange Cotton Saree (CODE-073)"
+      },
+      {
+        "id": "01d5f4_15f3a4ad8a4149278d55393b71d63fcd~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Orange Cotton Saree (CODE-073)"
+      },
+      {
+        "id": "01d5f4_1a41db20c6ff4638a0d19bb8c9369f12~mv2.jpeg",
+        "width": 2449,
+        "height": 3262,
+        "alt": "Orange Cotton Saree (CODE-073)"
+      },
+      {
+        "id": "01d5f4_2d0d2a05864c4364803073d2db85ef74~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Orange Cotton Saree (CODE-073)"
+      },
+      {
+        "id": "01d5f4_0c7847f0c7d14b10a1b9e76c3624e8d3~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Orange Cotton Saree (CODE-073)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "0d5dc09b-c0c0-e4ef-8f20-9cec52124ba2",
+    "code": "069",
+    "codeNum": 69,
+    "orderIndex": 89,
+    "name": "Forest Green Banarasi Silk Saree (CODE-069)",
+    "slug": "forest-green-banarasi-silk-saree-code-069",
+    "price": 1449,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 79,
+    "categories": [
+      "banarasi-sarees"
+    ],
+    "productType": "Banarasi Silk",
+    "colors": [
+      "Green"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_9fae0b9e4198424e83677eb5ac28960b~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Forest Green Banarasi Silk Saree (CODE-069)"
+      },
+      {
+        "id": "01d5f4_8a3ec1d2e6034737a7b8a17aeceb3982~mv2.jpeg",
+        "width": 5949,
+        "height": 8342,
+        "alt": "Forest Green Banarasi Silk Saree (CODE-069)"
+      },
+      {
+        "id": "01d5f4_b0debf6d859e41d48d21a309dd967703~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Forest Green Banarasi Silk Saree (CODE-069)"
+      },
+      {
+        "id": "01d5f4_e1759b3e32af4a2980c268ec35fd563b~mv2.jpeg",
+        "width": 6313,
+        "height": 9469,
+        "alt": "Forest Green Banarasi Silk Saree (CODE-069)"
+      },
+      {
+        "id": "01d5f4_9fb413e82edd485db2c79e3ef1993a3a~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Forest Green Banarasi Silk Saree (CODE-069)"
+      },
+      {
+        "id": "01d5f4_1eaadf9c2cbd445ba8dc39e421df9094~mv2.jpeg",
+        "width": 6336,
+        "height": 9504,
+        "alt": "Forest Green Banarasi Silk Saree (CODE-069)"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "2a64d939-6820-3976-a5c5-bf872a10f637",
+    "code": "044",
+    "codeNum": 44,
+    "orderIndex": 90,
+    "name": "Navy Blue Saree with Pink Borders And Blouse. Mysore Semi Crepe [CODE-044]",
+    "slug": "mysore-semi-crepe-code044",
+    "price": 1549,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 46,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Pink",
+      "Blue"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_432e7455f1f846b9b2abbf2b298d3c59~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Navy Blue Saree with Pink Borders And Blouse. Mysore Semi Crepe [CODE-044]"
+      },
+      {
+        "id": "01d5f4_e81658b5e0fc4be582aad23e244c0573~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Navy Blue Saree with Pink Borders And Blouse. Mysore Semi Crepe [CODE-044]"
+      },
+      {
+        "id": "01d5f4_869c69d8976c4bfe9f61805b553638cf~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Navy Blue Saree with Pink Borders And Blouse. Mysore Semi Crepe [CODE-044]"
+      },
+      {
+        "id": "01d5f4_4bb976a555924fad92449c13af364456~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Navy Blue Saree with Pink Borders And Blouse. Mysore Semi Crepe [CODE-044]"
+      },
+      {
+        "id": "01d5f4_c944734be0e3445eace03cc31ec2339d~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Navy Blue Saree with Pink Borders And Blouse. Mysore Semi Crepe [CODE-044]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "ddef04ee-01e4-bfa6-8adb-194c8ce48e8b",
+    "code": "057",
+    "codeNum": 57,
+    "orderIndex": 91,
+    "name": "Premium Crepe Silk Saree (Pink with Red) CODE-057",
+    "slug": "premium-crepe-silk-saree-pink-with-red-code-057",
+    "price": 1599,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 70,
+    "categories": [
+      "mysore-silk-sarees"
+    ],
+    "productType": "Crepe Silk",
+    "colors": [
+      "Red",
+      "Pink"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_3e086b4368e743c4b788898c455b885d~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Premium Crepe Silk Saree (Pink with Red) CODE-057"
+      },
+      {
+        "id": "ee7c6c_e451ceec554a4df1aa70a42c0e4ebddc~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Premium Crepe Silk Saree (Pink with Red) CODE-057"
+      },
+      {
+        "id": "ee7c6c_fdc9c0fcdc9a4aed98dee50b697b1299~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Premium Crepe Silk Saree (Pink with Red) CODE-057"
+      },
+      {
+        "id": "ee7c6c_2a340d83ea6546b88c12f6372e5c18d0~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Premium Crepe Silk Saree (Pink with Red) CODE-057"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "06e756da-fdf4-9918-6bb8-5253915358fd",
+    "code": "039",
+    "codeNum": 39,
+    "orderIndex": 92,
+    "name": "Mysore semi crêpe warm peach-orange  [CODE-039]",
+    "slug": "mysore-semi-scrap-code-039",
+    "price": 1349,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 26,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Pink",
+      "Orange & Rust"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_7a996f255d744548989f907a2147d67c~mv2.jpeg",
+        "width": 5856,
+        "height": 8772,
+        "alt": "Mysore semi crêpe warm peach-orange  [CODE-039]"
+      },
+      {
+        "id": "01d5f4_f3866153e70040bfb0ea05f7e7793c38~mv2.jpeg",
+        "width": 5856,
+        "height": 8772,
+        "alt": "Mysore semi crêpe warm peach-orange  [CODE-039]"
+      },
+      {
+        "id": "01d5f4_706f17910dbe41538a143364da6b6665~mv2.jpeg",
+        "width": 5962,
+        "height": 8616,
+        "alt": "Mysore semi crêpe warm peach-orange  [CODE-039]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "46b0c868-a121-69a7-ab29-fc2d3c27752c",
+    "code": "023",
+    "codeNum": 23,
+    "orderIndex": 93,
+    "name": "Semi Crepe Silk in Purple Colour [CODE-023]",
+    "slug": "code023",
+    "price": 1349,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 54,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Purple & Lavender"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_974cf3597ea94429a194815c4a7a416d~mv2.jpg",
+        "width": 4000,
+        "height": 6000,
+        "alt": "Semi Crepe Silk in Purple Colour [CODE-023]"
+      },
+      {
+        "id": "01d5f4_1c8d6c63ee6248dc85f594026ee77844~mv2.jpg",
+        "width": 4000,
+        "height": 6000,
+        "alt": "Semi Crepe Silk in Purple Colour [CODE-023]"
+      },
+      {
+        "id": "01d5f4_782bf2f7e3cb418194e1c9f64f327661~mv2.jpg",
+        "width": 4000,
+        "height": 6000,
+        "alt": "Semi Crepe Silk in Purple Colour [CODE-023]"
+      },
+      {
+        "id": "01d5f4_a8cd2fcbf94640c2bb7c13f57b8841be~mv2.jpg",
+        "width": 4000,
+        "height": 6000,
+        "alt": "Semi Crepe Silk in Purple Colour [CODE-023]"
+      },
+      {
+        "id": "01d5f4_c23c6d26869b49508d15a2d9f021f6e1~mv2.jpg",
+        "width": 4000,
+        "height": 6000,
+        "alt": "Semi Crepe Silk in Purple Colour [CODE-023]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "2ad3e018-9296-d6b5-bc79-42af819c5107",
+    "code": "041",
+    "codeNum": 41,
+    "orderIndex": 94,
+    "name": "Multi color georgette saree with printed&mirror work with arco border[CODE-041]",
+    "slug": "041",
+    "price": 1149,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 49,
+    "categories": [
+      "georgette-sarees"
+    ],
+    "productType": "Georgette",
+    "colors": [
+      "Multi Color"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_bbded869078b480988f3d9d81d81c64f~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Multi color georgette saree with printed&mirror work with arco border[CODE-041]"
+      },
+      {
+        "id": "01d5f4_ce6a3c34892d433da8c2bc4abe18c01b~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Multi color georgette saree with printed&mirror work with arco border[CODE-041]"
+      },
+      {
+        "id": "01d5f4_d388ae0faa984ec18968c6aaa3709ddc~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Multi color georgette saree with printed&mirror work with arco border[CODE-041]"
+      },
+      {
+        "id": "01d5f4_9a0eb235aae1485f918f5ce5f36d4573~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Multi color georgette saree with printed&mirror work with arco border[CODE-041]"
+      },
+      {
+        "id": "01d5f4_6102f2e9ecbd49ad987773b948d6591b~mv2.jpeg",
+        "width": 3997,
+        "height": 3001,
+        "alt": "Multi color georgette saree with printed&mirror work with arco border[CODE-041]"
+      },
+      {
+        "id": "01d5f4_17d4e8e5ec7b49b2932639a8054f9b2f~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Multi color georgette saree with printed&mirror work with arco border[CODE-041]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "f9af2e90-edc1-9329-4255-ddb1fac32a88",
+    "code": "060",
+    "codeNum": 60,
+    "orderIndex": 95,
+    "name": "Mint Green With Forest Green Blouse -Fancy Saree Code -060",
+    "slug": "mint-green-with-forest-green-blouse-fancy-saree",
+    "price": 1299,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 45,
+    "categories": [
+      "fancy-sarees"
+    ],
+    "productType": "Fancy Designer",
+    "colors": [
+      "Green"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "ee7c6c_b56448b9b7c142b39d308b0c913b1309~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mint Green With Forest Green Blouse -Fancy Saree Code -060"
+      },
+      {
+        "id": "ee7c6c_f9c2489807234298924f4d3956785e8f~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mint Green With Forest Green Blouse -Fancy Saree Code -060"
+      },
+      {
+        "id": "01d5f4_35fd945a415048358f056e9490281301~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mint Green With Forest Green Blouse -Fancy Saree Code -060"
+      },
+      {
+        "id": "01d5f4_069c301eddad448e8913d483a242ac36~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mint Green With Forest Green Blouse -Fancy Saree Code -060"
+      },
+      {
+        "id": "01d5f4_70416ddc73a145d189fc418d145e502d~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mint Green With Forest Green Blouse -Fancy Saree Code -060"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "f496606a-a4a5-7f76-6221-7450ceb12fc0",
+    "code": "052",
+    "codeNum": 52,
+    "orderIndex": 96,
+    "name": "Tissue Silk -CODE-052",
+    "slug": "tissue-silk-code-052",
+    "price": 2149,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 4,
+    "categories": [
+      "tissue-silk-sarees"
+    ],
+    "productType": "Tissue Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_cca2f5667b9e4e3ab80f4bcb6ff6975b~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Tissue Silk -CODE-052"
+      },
+      {
+        "id": "01d5f4_a936d3685fdc43639174a2dbd3e3f6bf~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Tissue Silk -CODE-052"
+      },
+      {
+        "id": "01d5f4_31f1688a6fbe4f459a1b57ad132906b8~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Tissue Silk -CODE-052"
+      },
+      {
+        "id": "01d5f4_ca8f664933544ddda4033d7464782cc8~mv2.jpeg",
+        "width": 2311,
+        "height": 3072,
+        "alt": "Tissue Silk -CODE-052"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "cd4c3688-cfb0-1bd3-916f-5a9a3e0da9d3",
+    "code": "008",
+    "codeNum": 8,
+    "orderIndex": 97,
+    "name": "Multi Color office wear Khadi Cotton Saree[CODE-008]",
+    "slug": "multi-color-office-wear-khadi-cotton-saree-product-code-008",
+    "price": 1199,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 65,
+    "categories": [
+      "cotton-sarees",
+      "khadi-cotton"
+    ],
+    "productType": "Khadi Cotton",
+    "colors": [
+      "Multi Color"
+    ],
+    "description": [
+      "Experience the perfect blend of tradition and contemporary style with our Multi Color office wear khadi cotton saree [Product code: 008] at Nidhu Vastra. Crafted to offer elegance and comfort, this saree is ideal for your professional wardrobe. Each thread tells a story of timeless heritage, ensuring you embrace tradition in every meeting. Wrap yourself in the finest khadi cotton and step into your office with unmatched grace. Elevate your ethnic fashion sense today with this exquisite piece from Nidhu Vastra."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_71b0d698c0294e61957f2d0ace227de1~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Multi Color office wear Khadi Cotton Saree[CODE-008]"
+      },
+      {
+        "id": "01d5f4_e234b421d5754dcdbe7d63252c259079~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Multi Color office wear Khadi Cotton Saree[CODE-008]"
+      },
+      {
+        "id": "01d5f4_40688fee7908408fa1b4533eec7dca44~mv2.png",
+        "width": 1365,
+        "height": 2048,
+        "alt": "Multi Color office wear Khadi Cotton Saree[CODE-008]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "719ea98d-3c62-df9c-8d7a-297911eb8c9a",
+    "code": "036",
+    "codeNum": 36,
+    "orderIndex": 98,
+    "name": "Mysore Semi Crepe saree [CODE-036]",
+    "slug": "mysore-semi-crepe-saree-code036",
+    "price": 1399,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 41,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Classic Multi"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_d29c68435946476cbbd192287c9e2ea2~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Semi Crepe saree [CODE-036]"
+      },
+      {
+        "id": "01d5f4_f798907422434dbfbb7ed6c698b95ea5~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Semi Crepe saree [CODE-036]"
+      },
+      {
+        "id": "01d5f4_eac8b0d7d3414c47801221ec27b0c886~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Semi Crepe saree [CODE-036]"
+      },
+      {
+        "id": "01d5f4_c391c9a1d59248f7b99aed013a1e3be4~mv2.jpeg",
+        "width": 2216,
+        "height": 3936,
+        "alt": "Mysore Semi Crepe saree [CODE-036]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "d7a9e879-bdae-89c0-e6a9-ed2bb1770cbe",
+    "code": "037",
+    "codeNum": 37,
+    "orderIndex": 99,
+    "name": "Mysore Semi Crepe teal blue colour [CODE-037]",
+    "slug": "mysore-semi-crepe-teal-blue-colour-code037",
+    "price": 1549,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 24,
+    "categories": [
+      "mysore-semi-crepe-silk"
+    ],
+    "productType": "Mysore Semi Crepe Silk",
+    "colors": [
+      "Blue"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_4639c59b267540c3964f9db10869f737~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Mysore Semi Crepe teal blue colour [CODE-037]"
+      },
+      {
+        "id": "01d5f4_3714d03ab2b6494991257bb999b591f4~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Mysore Semi Crepe teal blue colour [CODE-037]"
+      },
+      {
+        "id": "01d5f4_b6dd04ee4ad749d0b7a05b46ef147268~mv2.jpeg",
+        "width": 2481,
+        "height": 4096,
+        "alt": "Mysore Semi Crepe teal blue colour [CODE-037]"
+      },
+      {
+        "id": "01d5f4_e540ced57695404cba34b903d87a6d92~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Mysore Semi Crepe teal blue colour [CODE-037]"
+      },
+      {
+        "id": "01d5f4_1193cd2055644bb19474bf1a5a385a84~mv2.jpeg",
+        "width": 3001,
+        "height": 3997,
+        "alt": "Mysore Semi Crepe teal blue colour [CODE-037]"
+      },
+      {
+        "id": "01d5f4_ae7a5b50cc7049159f98d8c4647b275b~mv2.jpeg",
+        "width": 2624,
+        "height": 3488,
+        "alt": "Mysore Semi Crepe teal blue colour [CODE-037]"
+      },
+      {
+        "id": "01d5f4_3d9cd09ce5154484b4d0b59dcabf0be5~mv2.jpeg",
+        "width": 2452,
+        "height": 3259,
+        "alt": "Mysore Semi Crepe teal blue colour [CODE-037]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "1e72dbf3-b74c-65ae-8fe3-39a5d87266b9",
+    "code": "031",
+    "codeNum": 31,
+    "orderIndex": 100,
+    "name": "Yellow Premium Quality Pure Banarasi Silk Saree [CODE-031]",
+    "slug": "yellow-premium-quality-pure-banarasi-silk-saree-code-031",
+    "price": 2199,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 9,
+    "categories": [
+      "banarasi-sarees"
+    ],
+    "productType": "Banarasi Silk",
+    "colors": [
+      "Yellow & Mustard"
+    ],
+    "description": [],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_d67eb666c3264c0888c558303f9b604e~mv2.png",
+        "width": 2000,
+        "height": 2249,
+        "alt": "Yellow Premium Quality Pure Banarasi Silk Saree [CODE-031]"
+      },
+      {
+        "id": "01d5f4_0e08612fdbaf4df7b98b5b1c235436c4~mv2.jpeg",
+        "width": 2851,
+        "height": 4096,
+        "alt": "Yellow Premium Quality Pure Banarasi Silk Saree [CODE-031]"
+      },
+      {
+        "id": "01d5f4_b9407ca25ebf4bb6a67c79f30cce8dd9~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Yellow Premium Quality Pure Banarasi Silk Saree [CODE-031]"
+      },
+      {
+        "id": "01d5f4_a59b9aa2b9a842b68235c0153b9e512a~mv2.jpeg",
+        "width": 4096,
+        "height": 2730,
+        "alt": "Yellow Premium Quality Pure Banarasi Silk Saree [CODE-031]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  },
+  {
+    "id": "56699fd0-8ef2-740b-4e39-3365ef1217d0",
+    "code": "028",
+    "codeNum": 28,
+    "orderIndex": 101,
+    "name": "Yellow With Black Cotton Saree [CODE-028]",
+    "slug": "028",
+    "price": 1149,
+    "comparePrice": 0,
+    "currency": "INR",
+    "inStock": true,
+    "stockQuantity": 55,
+    "categories": [
+      "cotton-sarees"
+    ],
+    "productType": "Cotton",
+    "colors": [
+      "Black",
+      "Yellow & Mustard"
+    ],
+    "description": [
+      "Discover the epitome of traditional grace with our Yellow With Black Cotton Saree (CODE)028 at Nidhu Vastra. This exquisite saree seamlessly blends vibrant yellow with striking black, creating a timeless piece that celebrates the rich heritage of ethnic fashion. Crafted from the finest cotton, it promises unparalleled comfort and durability, perfect for any occasion. At Nidhu Vastra, we take pride in wrapping you in timeless elegance, allowing you to embrace tradition with every thread. Add this stunning saree to your collection and experience the true essence of classic Indian attire."
+    ],
+    "specs": {},
+    "images": [
+      {
+        "id": "01d5f4_d93b946f67544308ac2b8b7bbbcfda84~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Yellow With Black Cotton Saree [CODE-028]"
+      },
+      {
+        "id": "01d5f4_cd10adbc42a544f5845d9c0560d6c114~mv2.jpeg",
+        "width": 2308,
+        "height": 3462,
+        "alt": "Yellow With Black Cotton Saree [CODE-028]"
+      },
+      {
+        "id": "01d5f4_76b8ee5d138e4b2990cbdd9e0a679fcb~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Yellow With Black Cotton Saree [CODE-028]"
+      },
+      {
+        "id": "01d5f4_bc4dd1e09bc24d81b63fc60243723ffa~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Yellow With Black Cotton Saree [CODE-028]"
+      },
+      {
+        "id": "01d5f4_a27df2d11ae84e5b980dc1fce15d21d1~mv2.jpeg",
+        "width": 2730,
+        "height": 4096,
+        "alt": "Yellow With Black Cotton Saree [CODE-028]"
+      }
+    ],
+    "videos": [],
+    "options": []
+  }
+]
