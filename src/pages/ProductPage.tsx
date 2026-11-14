@@ -394,7 +394,9 @@ export const ProductPage: React.FC<ProductPageProps> = ({ slug }) => {
                     Out of Stock
                   </button>
                   <a
-                    href={`${BRAND.whatsappUrl}%20I%20would%20like%20to%20enquire%20about%20restock%20for%20${encodeURIComponent(product.name)}%20(Code%20${product.code}).`}
+                    href={`https://wa.me/${BRAND.phoneRaw}?text=${encodeURIComponent(
+                      `Hello NidhuVastra! I visited your website and would like to enquire about availability for ${product.name} (Code ${product.code}).`
+                    )}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block w-full text-center py-3 border border-[#242020]/20 text-xs font-medium uppercase tracking-[0.14em] text-[#242020] hover:border-[#641E32] hover:text-[#641E32]"

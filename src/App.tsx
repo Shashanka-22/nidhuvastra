@@ -6,6 +6,7 @@ import { QuickViewModal } from './components/QuickViewModal';
 import { CartDrawer } from './components/CartDrawer';
 import { AccountDrawer } from './components/AccountDrawer';
 import { ToastContainer } from './components/ToastContainer';
+import { FloatingWhatsApp } from './components/FloatingWhatsApp';
 import { HomePage } from './pages/HomePage';
 import { ShopPage } from './pages/ShopPage';
 import { ProductPage } from './pages/ProductPage';
@@ -58,6 +59,7 @@ export default function App() {
         <QuickViewModal />
         <CartDrawer />
         <AccountDrawer />
+        <FloatingWhatsApp />
         <ToastContainer />
       </div>
     </StoreProvider>

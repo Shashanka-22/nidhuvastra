@@ -1,5 +1,5 @@
 import React from 'react';
-import { Instagram, Mail, MapPin, Phone } from 'lucide-react';
+import { Instagram, Mail, MapPin, MessageCircle, Phone } from 'lucide-react';
 import { BRAND, BRAND_ASSETS, wixImageUrl } from '../data/brand';
 import { useStore } from '../context/StoreContext';
 import { SafeImage } from './SafeImage';
@@ -35,7 +35,7 @@ export const Footer: React.FC = () => {
             <p className="text-sm leading-relaxed text-[#FAF7F2]/75 max-w-sm">
               {BRAND.tagline} Handpicked Indian ethnic sarees celebrating artisan looms and contemporary elegance.
             </p>
-            <div className="pt-2">
+            <div className="pt-2 flex flex-wrap items-center gap-5">
               <a
                 href={BRAND.instagram}
                 target="_blank"
@@ -44,6 +44,15 @@ export const Footer: React.FC = () => {
               >
                 <Instagram className="h-4 w-4" strokeWidth={1.6} />
                 <span>Follow @nidhu_vastra</span>
+              </a>
+              <a
+                href={BRAND.whatsappUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 text-xs uppercase tracking-[0.14em] text-[#C5A46D] hover:text-[#FAF7F2] transition-colors"
+              >
+                <MessageCircle className="h-4 w-4" strokeWidth={1.6} />
+                <span>WhatsApp Support</span>
               </a>
             </div>
           </div>
@@ -114,6 +123,17 @@ export const Footer: React.FC = () => {
                 <Phone className="h-4 w-4 text-[#C5A46D] shrink-0" strokeWidth={1.6} />
                 <a href={`tel:${BRAND.phone.replace(/\s+/g, '')}`} className="hover:text-[#FAF7F2] tabular-nums">
                   {BRAND.phone}
+                </a>
+              </li>
+              <li className="flex items-center gap-2.5">
+                <MessageCircle className="h-4 w-4 text-[#C5A46D] shrink-0" strokeWidth={1.6} />
+                <a
+                  href={BRAND.whatsappUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-[#FAF7F2]"
+                >
+                  Chat on WhatsApp ({BRAND.phone})
                 </a>
               </li>
               <li className="flex items-center gap-2.5">

@@ -1,13 +1,19 @@
 export const BRAND = {
   name: 'NIDHUVASTRA',
   tagline: 'Weaving Threads of Tradition with Contemporary Elegance.',
-  phone: '+91 8861162769',
-  phoneRaw: '918861162769',
+  phone: '+91 76764 07220',
+  phoneRaw: '917676407220',
   email: 'nidhuvastra@gmail.com',
   hours: 'Monday–Saturday, 10 AM–6 PM IST',
   address: 'Mysuru, Karnataka, India – 570017',
-  instagram: 'https://www.instagram.com/nidhu_vastra/profilecard/?igsh=MWI0bHRqc3ZlZTk4bg==',
-  whatsappUrl: 'https://wa.me/918861162769?text=Hello%20NidhuVastra%2C%20I%20would%20like%20assistance%20with%20a%20saree%20order.',
+  instagram: 'https://www.instagram.com/nidhu_vastra/',
+  whatsappMessage:
+    'Hello NidhuVastra! I visited your website and would like to know more about your saree collections.',
+  whatsappUrl:
+    'https://wa.me/917676407220?text=' +
+    encodeURIComponent(
+      'Hello NidhuVastra! I visited your website and would like to know more about your saree collections.'
+    ),
   returnFormUrl: 'https://forms.gle/TYCh4GTD4rRfkseD6',
   dtdcTrackUrl: 'https://www.dtdc.in/trace.asp',
   existingSiteUrl: 'https://www.nidhuvastra.com/',

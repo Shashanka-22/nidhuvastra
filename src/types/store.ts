@@ -58,12 +58,23 @@ export interface CartItem {
 }
 
 export type OrderStatus =
+  | 'Payment Pending'
+  | 'Payment Failed'
   | 'Order Placed'
   | 'Processing'
   | 'Dispatched'
   | 'Shipped'
   | 'Out for Delivery'
   | 'Delivered';
+
+export interface BillingAddress {
+  sameAsShipping: boolean;
+  name: string;
+  address: string;
+  city: string;
+  state: string;
+  pinCode: string;
+}
 
 export interface OrderRecord {
   orderNumber: string;
@@ -80,6 +91,7 @@ export interface OrderRecord {
     state: string;
     pinCode: string;
   };
+  billingAddress?: BillingAddress;
   items: {
     productId: string;
     code: string;
@@ -90,11 +102,22 @@ export interface OrderRecord {
     imageId: string;
   }[];
   subtotal: number;
+  discountAmount?: number;
+  promoCode?: string;
   shipping: number;
   total: number;
+  currency?: 'INR';
   paymentMethod: 'razorpay' | 'upi_whatsapp' | 'cod';
-  paymentStatus: 'paid' | 'pending_verification' | 'cod_confirmed';
+  paymentStatus: 'paid' | 'pending' | 'failed' | 'pending_verification' | 'cod_confirmed';
+  razorpayOrderId?: string;
   razorpayPaymentId?: string;
+  razorpaySignatureVerified?: boolean;
+  webhookVerified?: boolean;
+  paidAt?: string;
+  failureReason?: string;
+  idempotencyKey?: string;
+  notificationSentAt?: string;
+  notificationLog?: string[];
   courierName?: string;
   trackingNumber?: string;
 }

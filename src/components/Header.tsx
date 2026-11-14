@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from 'react';
-import { ChevronDown, Heart, Menu, Search, ShoppingBag, User, X } from 'lucide-react';
+import { ChevronDown, Heart, Instagram, Menu, MessageCircle, Search, ShoppingBag, User, X } from 'lucide-react';
 import { BRAND, BRAND_ASSETS, COLLECTIONS, wixImageUrl } from '../data/brand';
 import { useStore } from '../context/StoreContext';
 import { SafeImage } from './SafeImage';
@@ -216,6 +216,16 @@ export const Header: React.FC = () => {
                 </span>
               )}
             </button>
+
+            <a
+              href={BRAND.instagram}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Follow NidhuVastra on Instagram"
+              className="hidden sm:flex h-10 w-10 items-center justify-center text-[#242020] hover:text-[#641E32] transition-colors"
+            >
+              <Instagram className="h-[18px] w-[18px]" strokeWidth={1.6} />
+            </a>
 
             <button
               type="button"
@@ -461,10 +471,30 @@ export const Header: React.FC = () => {
               </div>
             </div>
 
-            <div className="mt-auto pt-8 border-t border-[#242020]/10 text-xs text-[#5C5252] space-y-1.5">
+            <div className="mt-auto pt-8 border-t border-[#242020]/10 text-xs text-[#5C5252] space-y-2">
               <p className="font-medium text-[#242020]">Customer Support</p>
               <p>{BRAND.phone} · {BRAND.hours}</p>
               <p>{BRAND.email}</p>
+              <div className="flex items-center gap-4 pt-2">
+                <a
+                  href={BRAND.whatsappUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 font-medium text-[#641E32] hover:underline"
+                >
+                  <MessageCircle className="h-3.5 w-3.5" />
+                  <span>WhatsApp</span>
+                </a>
+                <a
+                  href={BRAND.instagram}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 font-medium text-[#641E32] hover:underline"
+                >
+                  <Instagram className="h-3.5 w-3.5" />
+                  <span>Instagram</span>
+                </a>
+              </div>
             </div>
           </div>
         </div>

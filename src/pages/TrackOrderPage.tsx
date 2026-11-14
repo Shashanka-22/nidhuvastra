@@ -199,6 +199,11 @@ export const TrackOrderPage: React.FC = () => {
             <div className="text-left sm:text-right">
               <span className="text-xs uppercase tracking-wider text-[#5C5252]">Current Status</span>
               <p className="text-lg font-semibold text-[#641E32] mt-0.5">{result.status}</p>
+              {result.razorpayPaymentId && (
+                <p className="text-xs text-[#5C5252] mt-1 tabular-nums">
+                  Payment ID: {result.razorpayPaymentId}
+                </p>
+              )}
               {result.trackingNumber && (
                 <p className="text-xs text-[#242020] mt-1 tabular-nums">
                   {result.courierName || 'DTDC'} AWB: {result.trackingNumber}
@@ -207,6 +212,16 @@ export const TrackOrderPage: React.FC = () => {
             </div>
           </div>
 
+          {(result.status === 'Payment Pending' || result.status === 'Payment Failed') && (
+            <div className="border border-[#641E32]/25 bg-[#FAF7F2] p-4 text-xs leading-relaxed text-[#242020]">
+              <p className="font-semibold text-[#641E32]">{result.status}</p>
+              <p className="mt-1 text-[#5C5252]">
+                {result.failureReason ||
+                  'Payment has not been verified for this order yet. Return to Checkout to retry payment or contact our WhatsApp concierge.'}
+              </p>
+            </div>
+          )}
+
           {/* 6-Stage Progress */}
           <div>
             <h3 className="font-sans text-xs font-semibold uppercase tracking-[0.14em] text-[#5C5252] mb-5">
@@ -214,8 +229,8 @@ export const TrackOrderPage: React.FC = () => {
             </h3>
             <div className="grid grid-cols-2 sm:grid-cols-6 gap-3">
               {STAGES.map((stage, idx) => {
-                const completed = idx <= currentStageIdx;
-                const current = idx === currentStageIdx;
+                const completed = currentStageIdx >= 0 && idx <= currentStageIdx;
+                const current = currentStageIdx >= 0 && idx === currentStageIdx;
                 return (
                   <div
                     key={stage}
@@ -301,7 +316,14 @@ export const TrackOrderPage: React.FC = () => {
                 {result.customer.address}, {result.customer.city}, {result.customer.state} –{' '}
                 {result.customer.pinCode}
               </p>
-              <p className="text-[#5C5252] tabular-nums">Total: ₹{result.total.toLocaleString('en-IN')}</p>
+              {result.discountAmount && result.discountAmount > 0 ? (
+                <p className="text-[#2E5A3E] tabular-nums">
+                  Promo ({result.promoCode}): −₹{result.discountAmount.toLocaleString('en-IN')}
+                </p>
+              ) : null}
+              <p className="text-[#242020] font-semibold tabular-nums">
+                Total: ₹{result.total.toLocaleString('en-IN')}
+              </p>
             </div>
           </div>
         </div>
